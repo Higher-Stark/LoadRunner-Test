@@ -1,0 +1,9 @@
+GET /owners/11 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://cvm.higher-stark.site:8080/owners/
+Accept-Language: zh-Hans-CN,zh-Hans;q=0.5
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: cvm.higher-stark.site:8080
+Connection: Keep-Alive
+

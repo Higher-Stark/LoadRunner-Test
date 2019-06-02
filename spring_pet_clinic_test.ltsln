@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("763C9438-C599-4018-B1FC-DE29E3639D43") = "Web_test", "Web_test\Web_test.usr", "763C9438-C599-4018-B1FC-DE29E3639D43"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkU6XE1BUktfMVxTb2Z0d2FyZV9UZXN0XExvYWRfcnVubmVyXFdlYl90ZXN0XFdlYl90ZXN0LnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT5FOlxNQVJLXzFcU29mdHdhcmVfVGVzdFxMb2FkX3J1bm5lclxXZWJfdGVzdFxXZWJfdGVzdC51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDE5LTA2LTAyVDEwOjIzOjAwLjIzNzY0MjErMDg6MDA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		763C9438-C599-4018-B1FC-DE29E3639D43.Debug|Any CPU.Build.0 = Debug|Any CPU
+		763C9438-C599-4018-B1FC-DE29E3639D43.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		763C9438-C599-4018-B1FC-DE29E3639D43.Release|Any CPU.Build.0 = Release|Any CPU
+		763C9438-C599-4018-B1FC-DE29E3639D43.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

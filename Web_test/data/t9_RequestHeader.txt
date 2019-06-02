@@ -1,0 +1,9 @@
+GET /fwlink/?LinkID=401135 HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: go.microsoft.com
+Connection: Keep-Alive
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=D58AF0A7A4344645B4247CF255F3C929&dmnchg=1; SRCHUSR=DOB=20190602; _SS=SID=0E9F58304D21640D257C555F4CDD6591
+

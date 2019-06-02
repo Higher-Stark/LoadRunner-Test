@@ -1,0 +1,722 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ua-cpu",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 12,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "6月-02-2019",
+    "RecordingDuration": 613672,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1559442363,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 1137047,
+    "TotalBytesSent": 23956,
+    "TotalRequests": 63,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.200",
+          "IncludeInScript": true,
+          "Name": "ieonline.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 281,
+              "EventId": 538,
+              "HttpStatus": 200,
+              "Size": 1571,
+              "URL": "https://ieonline.microsoft.com/s/iess/instrument18.cer"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/xml",
+              "DownloadTime": 328,
+              "EventId": 496,
+              "HttpStatus": 200,
+              "Size": 160677,
+              "URL": "https://ieonline.microsoft.com/ieflipahead/ie10/rules.xml?mkt=zh-CN"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 266,
+              "EventId": 491,
+              "HttpStatus": 200,
+              "Size": 15286,
+              "URL": "https://ieonline.microsoft.com/iedomainsuggestions/ie11/suggestions.zh-CN"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "72.21.81.200",
+          "IncludeInScript": true,
+          "Name": "iecvlist.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 219,
+              "EventId": 435,
+              "HttpStatus": 200,
+              "Size": 27090,
+              "URL": "https://iecvlist.microsoft.com/IE11/1478281996/iecompatviewlist.xml?cvlp=4999842171724530114"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.85.64.87",
+          "IncludeInScript": true,
+          "Name": "go.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 219,
+              "EventId": 536,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://go.microsoft.com/fwlink/?LinkID=401135"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.76.93.221",
+          "IncludeInScript": true,
+          "Name": "c.urs.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 266,
+              "EventId": 441,
+              "HttpStatus": 200,
+              "Size": 79169,
+              "URL": "https://c.urs.microsoft.com/l1.dat?v=3&cv=9.11.17763.0&os=10.0.17763.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "higher-stark.site",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "123.206.174.81",
+          "IncludeInScript": true,
+          "Name": "cvm.higher-stark.site",
+          "Port": 8080,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 1030,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 1021,
+              "HttpStatus": 200,
+              "Size": 4967,
+              "URL": "http://cvm.higher-stark.site:8080/owners/4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 93,
+              "EventId": 1007,
+              "HttpStatus": 200,
+              "Size": 7322,
+              "URL": "http://cvm.higher-stark.site:8080/owners/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 997,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 989,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 947,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 932,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 919,
+              "HttpStatus": 200,
+              "Size": 5133,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 917,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12/pets/16/visits/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 908,
+              "HttpStatus": 200,
+              "Size": 5442,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12/pets/16/visits/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 893,
+              "HttpStatus": 200,
+              "Size": 4997,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 891,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 880,
+              "HttpStatus": 200,
+              "Size": 5743,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 872,
+              "HttpStatus": 200,
+              "Size": 4200,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 863,
+              "HttpStatus": 200,
+              "Size": 4462,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName=Phillips"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 844,
+              "HttpStatus": 200,
+              "Size": 7303,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 834,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 825,
+              "HttpStatus": 200,
+              "Size": 4200,
+              "URL": "http://cvm.higher-stark.site:8080/owners/12"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 823,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 808,
+              "HttpStatus": 200,
+              "Size": 5959,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 32,
+              "EventId": 799,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 787,
+              "HttpStatus": 200,
+              "Size": 5808,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 785,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName=Phillips"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 776,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 79,
+              "EventId": 768,
+              "HttpStatus": 200,
+              "Size": 5808,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 46,
+              "EventId": 766,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/edit"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 756,
+              "HttpStatus": 200,
+              "Size": 6031,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/edit"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 747,
+              "HttpStatus": 200,
+              "Size": 5808,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 725,
+              "HttpStatus": 200,
+              "Size": 7019,
+              "URL": "http://cvm.higher-stark.site:8080/owners/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 692,
+              "HttpStatus": 200,
+              "Size": 5808,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 690,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 659,
+              "HttpStatus": 200,
+              "Size": 5743,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 625,
+              "HttpStatus": 200,
+              "Size": 4999,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 623,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 592,
+              "HttpStatus": 200,
+              "Size": 5743,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11/pets/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 553,
+              "HttpStatus": 200,
+              "Size": 4200,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 551,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 383,
+              "HttpStatus": 200,
+              "Size": 5959,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 373,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 309,
+              "HttpStatus": 200,
+              "Size": 4264,
+              "URL": "http://cvm.higher-stark.site:8080/vets.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 296,
+              "HttpStatus": 200,
+              "Size": 4968,
+              "URL": "http://cvm.higher-stark.site:8080/owners/1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 250,
+              "EventId": 287,
+              "HttpStatus": 200,
+              "Size": 6693,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 276,
+              "HttpStatus": 200,
+              "Size": 3705,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow-mobile.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 254,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 0,
+              "EventId": 222,
+              "HttpStatus": 200,
+              "Size": 528,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/favicon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 158,
+              "HttpStatus": 200,
+              "Size": 6888,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 31,
+              "EventId": 156,
+              "HttpStatus": 200,
+              "Size": 20127,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/fonts/glyphicons-halflings-regular.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 31,
+              "EventId": 154,
+              "HttpStatus": 200,
+              "Size": 20979,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/montserrat-webfont.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 15,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 28963,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/varela_round-webfont.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 84,
+              "HttpStatus": 200,
+              "Size": 36868,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/3.3.6/js/bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 0,
+              "EventId": 46,
+              "HttpStatus": 200,
+              "Size": 85613,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery/2.2.4/jquery.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 44,
+              "HttpStatus": 200,
+              "Size": 2818,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-pivotal-logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 42,
+              "HttpStatus": 200,
+              "Size": 240427,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery-ui/1.11.4/jquery-ui.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 28,
+              "HttpStatus": 200,
+              "Size": 67721,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/pets.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 0,
+              "EventId": 20,
+              "HttpStatus": 200,
+              "Size": 152399,
+              "URL": "http://cvm.higher-stark.site:8080/resources/css/petclinic.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 18,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 1
+}
