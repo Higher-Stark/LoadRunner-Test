@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Mon, 03 Jun 2019 08:15:12 GMT
+Content-Type: image/gif
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Mon, 03 Jun 2019 11:02:15 GMT
+Server: nginx
+Last-Modified: Wed, 20 Jul 2016 03:02:08 GMT
+ETag: W/"578ee9b0-445"
+Cache-Control: max-age=28800
+X-Host: p2
+Content-Encoding: gzip
+Age: 1
+X-Via: 1.1 PSgdfsdx6hd85:5 (Cdn Cache Server V2.0), 1.1 dianxin17:9 (Cdn Cache Server V2.0)
+
