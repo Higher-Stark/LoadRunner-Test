@@ -1,7 +1,7 @@
 [General]
 Type=Multi
 DefaultCfg=default.cfg
-ParameterFile=
+ParameterFile=findUser.prm
 GlobalParameterFile=
 NewFunctionHeader=1
 RunType=cci
@@ -51,16 +51,13 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="Add_owner_1__*delimiter*__Add_owner_2__*delimiter*__Add_pet_3"
+Order="find all owners__*delimiter*__find one last name owners-1__*delimiter*__find one last name owners-2"
 [StateManagement]
-LastReplayStatus=2
+LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
-Add_owner_1=
-Add_owner_2=
-Add_pet_3=
-[SubTransactions]
-Add_pet_1=
-add_pet_2=
+"find all owners"=
+"find one last name owners-1"=
+"find one last name owners-2"=

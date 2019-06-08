@@ -1,0 +1,442 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/font-woff2"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/font-woff"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 14,
+    "RecordedBrowser": "Firefox",
+    "RecordingDate": "6月-03-2019",
+    "RecordingDuration": 87390,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1559548502,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 717084,
+    "TotalBytesSent": 12803,
+    "TotalRequests": 32,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "higher-stark.site",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "123.206.174.81",
+          "IncludeInScript": true,
+          "Name": "cvm.higher-stark.site",
+          "Port": 8080,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 1037,
+              "HttpStatus": 200,
+              "Size": 5808,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 1031,
+              "HttpStatus": 200,
+              "Size": 6921,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName=phi"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 485,
+              "EventId": 1028,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 1023,
+              "HttpStatus": 200,
+              "Size": 4968,
+              "URL": "http://cvm.higher-stark.site:8080/owners/1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 1021,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName=franklin"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 1016,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 1012,
+              "HttpStatus": 200,
+              "Size": 10046,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 983,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 830,
+              "HttpStatus": 200,
+              "Size": 528,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/favicon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 795,
+              "HttpStatus": 200,
+              "Size": 6888,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 793,
+              "HttpStatus": 200,
+              "Size": 2818,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-pivotal-logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 791,
+              "HttpStatus": 200,
+              "Size": 67721,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/pets.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/font-woff2",
+              "DownloadTime": 16,
+              "EventId": 755,
+              "HttpStatus": 200,
+              "Size": 18028,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/fonts/glyphicons-halflings-regular.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/font-woff",
+              "DownloadTime": 688,
+              "EventId": 741,
+              "HttpStatus": 200,
+              "Size": 24240,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/montserrat-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/font-woff",
+              "DownloadTime": 16,
+              "EventId": 710,
+              "HttpStatus": 200,
+              "Size": 32712,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/varela_round-webfont.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 0,
+              "EventId": 707,
+              "HttpStatus": 200,
+              "Size": 36868,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/3.3.6/js/bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 663,
+              "HttpStatus": 200,
+              "Size": 240427,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery-ui/1.11.4/jquery-ui.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 622,
+              "HttpStatus": 200,
+              "Size": 85613,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery/2.2.4/jquery.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 574,
+              "HttpStatus": 200,
+              "Size": 152399,
+              "URL": "http://cvm.higher-stark.site:8080/resources/css/petclinic.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 563,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "g-fox.cn",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "39.107.233.151",
+          "IncludeInScript": true,
+          "Name": "adu.g-fox.cn",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 570,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://adu.g-fox.cn/adu.gif?channelid=stub.firefox.com.cn&fxversion=67.0&ceversion=2019.5&ver=2_2&pk=%7B59ae7fd7-6554-4c2e-afa6-a8ed9cb1fb0b%7D&uk=%7B0e6e4736-fbf7-4ab2-b209-0a201c5fc91e%7D&cehome=true&locale=zh-CN&age=14&default=false&defaultHttp=false&flash=&tracking=3&now=1559549320859"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "111.178.233.66",
+          "IncludeInScript": true,
+          "Name": "addons.g-fox.cn",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 498,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://addons.g-fox.cn/ntab.gif?c=ntab&t=searchplugins&a=detect&d=current&f=true&r=0.5719801290170695&cid=stub.firefox.com.cn"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 484,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://addons.g-fox.cn/ntab.gif?c=ntab&t=searchplugins&a=detect&d=baidu&f=true&r=0.5726040046732096&cid=stub.firefox.com.cn"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 482,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://addons.g-fox.cn/ntab.gif?c=ntab&t=homepage&a=override&d=defaultVal&f=&r=0.07235229703225743&cid=stub.firefox.com.cn"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 480,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://addons.g-fox.cn/tk.gif?when=run&r=0.5272472669610972"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 453,
+              "HttpStatus": 200,
+              "Size": 800,
+              "URL": "http://addons.g-fox.cn/coba-webext.gif?action=disconnect&random=0.08204059471671221"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "firefox.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "184.51.15.141",
+          "IncludeInScript": true,
+          "Name": "detectportal.firefox.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 1010,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 997,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 976,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 897,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 872,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 370,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}
