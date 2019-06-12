@@ -1,0 +1,10 @@
+GET /login?ru=https%3A%2F%2Fwww.damai.cn%2F HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: https://www.damai.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: passport.damai.cn
+Connection: Keep-Alive
+Cookie: destCity=%u5317%u4EAC; isg=BLGxZBnSSEDvyeRUrg2jToLZyD1LniUQ0PNiQZPGrXiXutEM2-414F9Y2Ix5ab1I; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc16vz4OCanurza77OSCRYYuPzaNbMi_5Z66LsopQOkjpAaFp6VsCR_g8B4o5D9zJ9-etum; damai.cn_nickName=skyyy1
+

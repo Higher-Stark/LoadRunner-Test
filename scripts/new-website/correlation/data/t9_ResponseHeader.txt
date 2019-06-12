@@ -1,0 +1,24 @@
+HTTP/1.1 200 
+Date: Wed, 12 Jun 2019 10:12:54 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 115
+Connection: keep-alive
+ufe-result: A6
+X-Application-Context: umid-web:cn-prod:7001
+Access-Control-Allow-Origin: https://ipassport.damai.cn
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Accept,X-PINGARUNER,CONTENT-TYPE,X-Requested-With
+Set-Cookie: umdata_=GA501E3C64EAF97EF227BA31132CD25E5B07025; Max-Age=31536000; Expires=Thu, 11-Jun-2020 10:12:54 GMT; Domain=ynuf.aliapp.org; Path=/
+P3P: CP=IVAa PSAa
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Server: Tengine/Aserver
+EagleEye-TraceId: 0b01dc2015603343741056669e1b77
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *
+

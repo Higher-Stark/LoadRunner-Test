@@ -1,0 +1,13 @@
+[t12]
+FileName1=t12.html
+URL1=https://ipassport.damai.cn/newlogin/account/check.do?appName=damai&fromSite=-2
+Total=2
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=t12_RequestBody.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_12.xml
+FileName2=t12_clear.png
+URL2=https://ynuf.alipay.com/service/clear.png?xt=c2fba5bfcd8a44d7be58dda5a33a207d87e5a21f&xa=090D1F110F1878292829161C
+[ProtocolInfo]
+ProtocolId=QTWeb

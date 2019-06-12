@@ -1,0 +1,1701 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/webp"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 51,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "6鏈?12-2019",
+    "RecordingDuration": 90297,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1560334322,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 4425272,
+    "TotalBytesSent": 108236,
+    "TotalRequests": 148,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "taobao.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "203.119.212.1",
+          "IncludeInScript": true,
+          "Name": "tce.taobao.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 63,
+              "EventId": 698,
+              "HttpStatus": 200,
+              "Size": 277,
+              "URL": "https://tce.taobao.com/api/mget.htm?callback=jsonpXctrl78&tce_sid=2673210&tce_vid=0&tid=&tab=&topic=&count=&env=online"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mmstat.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "106.11.248.142",
+          "IncludeInScript": true,
+          "Name": "log.mmstat.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 1569,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://log.mmstat.com/v.gif?logtype=1&title=%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E5%A4%A7%E9%BA%A6%E6%90%9C%E7%B4%A2&pre=https%3A%2F%2Fwww.damai.cn%2F&scr=1280x720&cna=gJuHFQJpXnQCAcp4CxqZ/85N&spm-url=a2oeg.home.searchtxt.dsearchbtn&spm-cnt=a2oeg.search_category.0.0.592428dfjtjyjk&uidaplus=&aplus&pu_i=108327328&asid=AQAAAAA/0ABdNIzYOgAAAABTVxss2vu4Ag==&sidx=0&ckx=|&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=9218313&lver=8.11.5&jsver=aplus_std&pver=0.7.1&tag=1&stag=-1&lstag=-1&_slog=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 702,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://log.mmstat.com/y.gif?logtype=0&title=&pre=https%3A%2F%2Fipassport.damai.cn%2Fmini_login.htm%3Flang%3Dzh_cn%26appName%3Ddamai%26appEntrance%3Ddefault%26styleType%3Dvertical%26bizParams%3D%26notLoadSsoView%3Dtrue%26notKeepLogin%3Dfalse%26isMobile%3Dfalse%26regUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Fregister%26plainReturnUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Flogin%26returnUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Fdologin.htm%253FredirectUrl%253Dhttps%2525253A%2525252F%2525252Fwww.damai.cn%2525252F%2526platform%253D106002%26rnd%3D0.06607697544634017&scr=1280x720&cna=gJuHFZXTXxoCAcp4CxrFRT+V&spm-cnt=0.0.0.0.7e4fzZPLzZPLOL&category=&aplus&yunid=&&trid=0b8d10f015603343708777225e1b5f&asid=AQAAAAAi0ABdcPPpagAAAABXe3WczW4NdQ==&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=2f1dc5e&lver=8.11.5&jsver=aplus_std&pver=0.7.1&urlokey=https%253A%252F%252Fg.alicdn.com%252Fsd%252Fpointman%252Fjs%252Fpt2.js%253F_%253D1560334364176&_pw=0&_ph=0&tag=1&stag=-1&lstag=-1&_slog=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 602,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://log.mmstat.com/y.gif?logtype=0&title=Login&pre=https%3A%2F%2Fpassport.damai.cn%2Flogin%3Fru%3Dhttps%253A%252F%252Fwww.damai.cn%252F&scr=1280x720&cna=gJuHFQJpXnQCAcp4CxqZ/85N&spm-cnt=0.0.0.0.4e3c79f4qU4T6l&category=&aplus&yunid=&&trid=0ba9e91015603343641355586e1a90&asid=AQAAAAAc0ABd1piMUgAAAAB3pNaelI5BIQ==&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=2e4668a&lver=8.11.5&jsver=aplus_std&pver=0.7.1&_pw=350&_ph=328&tag=1&stag=-1&lstag=-1&_slog=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 585,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://log.mmstat.com/v.gif?logtype=1&title=%E4%B8%AD%E6%96%87%E7%99%BB%E5%BD%95&pre=https%3A%2F%2Fwww.damai.cn%2F&scr=1280x720&cna=gJuHFQJpXnQCAcp4CxqZ/85N&spm-cnt=a211rg.193253.0.0.1c167de22xA0SJ&category=&uidaplus=&aplus&yunid=&&asid=AQAAAAAb0ABdFtC3IgAAAABKafKjAp9k+A==&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=f19d225&lver=8.11.5&jsver=aplus_std&pver=0.7.1&tag=1&stag=-1&lstag=-1&_slog=0"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "dmcdn.cn",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "121.194.7.228",
+          "IncludeInScript": true,
+          "Name": "pimg.dmcdn.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 1667,
+              "HttpStatus": 200,
+              "Size": 18381,
+              "URL": "https://pimg.dmcdn.cn/perform/project/1744/174468_n.jpg?_t=1548757532045&x-oss-process=image/quality,q_60"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 63,
+              "EventId": 1603,
+              "HttpStatus": 200,
+              "Size": 32344,
+              "URL": "https://pimg.dmcdn.cn/perform/project/1777/177708_n.jpg?_t=1558583220337&x-oss-process=image/quality,q_60"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "damai.cn",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.205.32.6",
+          "IncludeInScript": true,
+          "Name": "www.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 1245,
+              "HttpStatus": 200,
+              "Size": 6187,
+              "URL": "https://www.damai.cn/"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 56,
+              "HttpStatus": 200,
+              "Size": 6188,
+              "URL": "https://www.damai.cn/"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.205.32.6",
+          "IncludeInScript": true,
+          "Name": "search.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 1673,
+              "HttpStatus": 200,
+              "Size": 2291,
+              "URL": "https://search.damai.cn/external/gl.html?projects=174468,591018612130,591279136759,590396672096,593261838804,588989395698,174052&ctl="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 125,
+              "EventId": 1656,
+              "HttpStatus": 200,
+              "Size": 1780,
+              "URL": "https://search.damai.cn/searchajax.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 1638,
+              "HttpStatus": 200,
+              "Size": 4547,
+              "URL": "https://search.damai.cn/search.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&spm=a2oeg.search_category.searchtxt.dsearchbtn"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1574,
+              "HttpStatus": 200,
+              "Size": 2290,
+              "URL": "https://search.damai.cn/external/gl.html?projects=593131142099,595542197209&ctl="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 140,
+              "EventId": 1546,
+              "HttpStatus": 200,
+              "Size": 1030,
+              "URL": "https://search.damai.cn/searchajax.html?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 1497,
+              "HttpStatus": 200,
+              "Size": 4548,
+              "URL": "https://search.damai.cn/search.html?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6&spm=a2oeg.home.searchtxt.dsearchbtn"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "121.194.7.229",
+          "IncludeInScript": true,
+          "Name": "perico.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 1670,
+              "HttpStatus": 200,
+              "Size": 3665,
+              "URL": "https://perico.damai.cn/userheadphotos/541636/108327328.jpg?r=0.10707813924135162"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 1608,
+              "HttpStatus": 200,
+              "Size": 3665,
+              "URL": "https://perico.damai.cn/userheadphotos/541636/108327328.jpg?r=0.9787785564027716"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.205.32.6",
+          "IncludeInScript": true,
+          "Name": "passport.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 1226,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://passport.damai.cn/dologin.htm?st=1is13WlJHnU4JR_pM4IXnBw&redirectUrl=https%253A%252F%252Fwww.damai.cn%252F&platform=106002"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 204,
+              "EventId": 463,
+              "HttpStatus": 200,
+              "Size": 6039,
+              "URL": "https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "47.92.62.13",
+          "IncludeInScript": true,
+          "Name": "online.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 94,
+              "EventId": 1661,
+              "HttpStatus": 200,
+              "Size": 231,
+              "URL": "https://online.damai.cn/alime/getDialogToken?_ksTS=1560334411755_20&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 78,
+              "EventId": 1544,
+              "HttpStatus": 200,
+              "Size": 231,
+              "URL": "https://online.damai.cn/alime/getDialogToken?_ksTS=1560334398957_20&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 1326,
+              "HttpStatus": 200,
+              "Size": 231,
+              "URL": "https://online.damai.cn/alime/getDialogToken?_ksTS=1560334391378_37&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.205.34.16",
+          "IncludeInScript": true,
+          "Name": "ipassport.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 1223,
+              "HttpStatus": 200,
+              "Size": 441,
+              "URL": "https://ipassport.damai.cn/newlogin/login.do?appName=damai&fromSite=-2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 141,
+              "EventId": 1053,
+              "HttpStatus": 200,
+              "Size": 82,
+              "URL": "https://ipassport.damai.cn/newlogin/account/check.do?appName=damai&fromSite=-2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 704,
+              "HttpStatus": 200,
+              "Size": 291,
+              "URL": "https://ipassport.damai.cn/newlogin/account/check.do?appName=damai&fromSite=-2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 110,
+              "EventId": 537,
+              "HttpStatus": 200,
+              "Size": 3904,
+              "URL": "https://ipassport.damai.cn/mini_login.htm?lang=zh_cn&appName=damai&appEntrance=default&styleType=vertical&bizParams=&notLoadSsoView=true&notKeepLogin=false&isMobile=false&regUrl=https%3A%2F%2Fpassport.damai.cn%2Fregister&plainReturnUrl=https%3A%2F%2Fpassport.damai.cn%2Flogin&returnUrl=https%3A%2F%2Fpassport.damai.cn%2Fdologin.htm%3FredirectUrl%3Dhttps%25253A%25252F%25252Fwww.damai.cn%25252F%26platform%3D106002&rnd=0.06607697544634017"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.205.32.6",
+          "IncludeInScript": true,
+          "Name": "api-gw.damai.cn",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 110,
+              "EventId": 1665,
+              "HttpStatus": 200,
+              "Size": 115,
+              "URL": "https://api-gw.damai.cn/user.html?loginkey=6e4d9f905b7c45ae8d62bab8729ec2fb_1_1&_ksTS=1560334411759_34&callback=jsonp35"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 1663,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/navigation.html?_ksTS=1560334411764_50&callback=jsonp51"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 1561,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/navigation.html?_ksTS=1560334398976_50&callback=jsonp51"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 1558,
+              "HttpStatus": 200,
+              "Size": 115,
+              "URL": "https://api-gw.damai.cn/user.html?loginkey=6e4d9f905b7c45ae8d62bab8729ec2fb_1_1&_ksTS=1560334398973_34&callback=jsonp35"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 1487,
+              "HttpStatus": 200,
+              "Size": 217,
+              "URL": "https://api-gw.damai.cn/suggest.html?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334398057_163&callback=jsonp164"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 1436,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/navigation.html?_ksTS=1560334391394_82&callback=jsonp83"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 1433,
+              "HttpStatus": 200,
+              "Size": 1241,
+              "URL": "https://api-gw.damai.cn//search.html?cat=1&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334391397_100&callback=jsonp101"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 1430,
+              "HttpStatus": 200,
+              "Size": 1312,
+              "URL": "https://api-gw.damai.cn//search.html?cat=3&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334391398_114&callback=jsonp115"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 1348,
+              "HttpStatus": 200,
+              "Size": 786,
+              "URL": "https://api-gw.damai.cn/cityList.html?_ksTS=1560334391392_50&callback=jsonp51"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 1346,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/advert.html?type=1&_ksTS=1560334391361_18&callback=jsonp19"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 93,
+              "EventId": 1335,
+              "HttpStatus": 200,
+              "Size": 1173,
+              "URL": "https://api-gw.damai.cn//search.html?cat=100&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334391400_142&callback=jsonp143"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 1333,
+              "HttpStatus": 200,
+              "Size": 115,
+              "URL": "https://api-gw.damai.cn/user.html?loginkey=6e4d9f905b7c45ae8d62bab8729ec2fb_1_1&_ksTS=1560334391394_66&callback=jsonp67"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 1328,
+              "HttpStatus": 200,
+              "Size": 1106,
+              "URL": "https://api-gw.damai.cn//search.html?cat=6&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334391398_128&callback=jsonp129"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 402,
+              "HttpStatus": 200,
+              "Size": 786,
+              "URL": "https://api-gw.damai.cn/cityList.html?_ksTS=1560334347792_50&callback=jsonp51"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 141,
+              "EventId": 393,
+              "HttpStatus": 200,
+              "Size": 1173,
+              "URL": "https://api-gw.damai.cn//search.html?cat=100&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334347804_127&callback=jsonp128"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 156,
+              "EventId": 385,
+              "HttpStatus": 200,
+              "Size": 1312,
+              "URL": "https://api-gw.damai.cn//search.html?cat=3&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334347800_99&callback=jsonp100"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 141,
+              "EventId": 377,
+              "HttpStatus": 200,
+              "Size": 1241,
+              "URL": "https://api-gw.damai.cn//search.html?cat=1&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334347798_85&callback=jsonp86"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 172,
+              "EventId": 372,
+              "HttpStatus": 200,
+              "Size": 1106,
+              "URL": "https://api-gw.damai.cn//search.html?cat=6&destCity=%E5%8C%97%E4%BA%AC&_ksTS=1560334347802_113&callback=jsonp114"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 93,
+              "EventId": 366,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/advert.html?type=1&_ksTS=1560334347756_18&callback=jsonp19"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 110,
+              "EventId": 358,
+              "HttpStatus": 200,
+              "Size": 40,
+              "URL": "https://api-gw.damai.cn/navigation.html?_ksTS=1560334347794_67&callback=jsonp68"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "aliyuncs.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "47.95.85.23",
+          "IncludeInScript": true,
+          "Name": "damaipimg.oss-cn-beijing.aliyuncs.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/webp",
+              "DownloadTime": 32,
+              "EventId": 1631,
+              "HttpStatus": 200,
+              "Size": 72,
+              "URL": "https://damaipimg.oss-cn-beijing.aliyuncs.com/cfs/src/cf23ea3e-558b-4a2b-9dbd-0ee51ebba97d.png?x-oss-process=image/resize,w_1/format,webp"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "aliyun.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "203.119.207.243",
+          "IncludeInScript": true,
+          "Name": "cf.aliyun.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 63,
+              "EventId": 694,
+              "HttpStatus": 200,
+              "Size": 95,
+              "URL": "https://cf.aliyun.com/nocaptcha/initialize.jsonp?a=CF_APP_TBLogin_PC&t=c2fba5bfcd8a44d7be58dda5a33a207d87e5a21f&scene=&lang=zh_CN&v=v1.2.17&href=https%3A%2F%2Fipassport.damai.cn%2Fmini_login.htm&comm={}&callback=initializeJsonp_006586287620706815"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "alipay.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "106.11.208.37",
+          "IncludeInScript": true,
+          "Name": "ynuf.alipay.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 1214,
+              "HttpStatus": 200,
+              "Size": 81,
+              "URL": "https://ynuf.alipay.com/service/clear.png?xt=c2fba5bfcd8a44d7be58dda5a33a207d87e5a21f&xa=090D1F110F1878292829161C"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "alicdn.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "222.192.186.108",
+          "IncludeInScript": true,
+          "Name": "img.alicdn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 78,
+              "EventId": 1682,
+              "HttpStatus": 200,
+              "Size": 20927,
+              "URL": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN016zj9aG2GdS9qUSpew_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 1677,
+              "HttpStatus": 200,
+              "Size": 16238,
+              "URL": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01CC4oce2GdS9oppKWH_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 78,
+              "EventId": 1591,
+              "HttpStatus": 200,
+              "Size": 35942,
+              "URL": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01t4X1Uy2GdSAxNZxRM_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 125,
+              "EventId": 1589,
+              "HttpStatus": 200,
+              "Size": 14171,
+              "URL": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01NS74Pi2GdSAwBoVBk_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 1585,
+              "HttpStatus": 200,
+              "Size": 24567,
+              "URL": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01cPCWOe2GdSAdmixz2_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 1579,
+              "HttpStatus": 200,
+              "Size": 22268,
+              "URL": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN018QU5Wd2GdSAEyFnpX_!!0-item_pic.jpg_q60.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 1571,
+              "HttpStatus": 200,
+              "Size": 15357,
+              "URL": "https://img.alicdn.com/tfs/TB1981syYGYBuNjy0FoXXciBFXa-36-323.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 1567,
+              "HttpStatus": 200,
+              "Size": 15445,
+              "URL": "https://img.alicdn.com/tfs/TB1S_dkRQvoK1RjSZFNXXcxMVXa-270-364.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 110,
+              "EventId": 1555,
+              "HttpStatus": 200,
+              "Size": 15727,
+              "URL": "https://img.alicdn.com/tfs/TB16Z3cyWmWBuNjy1XaXXXCbXXa-20-390.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 110,
+              "EventId": 1553,
+              "HttpStatus": 200,
+              "Size": 13983,
+              "URL": "https://img.alicdn.com/tfs/TB1sIDpy4GYBuNjy0FnXXX5lpXa-21-578.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 1549,
+              "HttpStatus": 200,
+              "Size": 37695,
+              "URL": "https://img.alicdn.com/tfs/TB1LDTioQomBKNjSZFqXXXtqVXa-100-100.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 172,
+              "EventId": 1451,
+              "HttpStatus": 200,
+              "Size": 116768,
+              "URL": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN016ZeIfj2GdSAfwsyRC_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 1449,
+              "HttpStatus": 200,
+              "Size": 67961,
+              "URL": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01NS74Pi2GdSAwBoVBk_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 1443,
+              "HttpStatus": 200,
+              "Size": 174529,
+              "URL": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01cPCWOe2GdSAdmixz2_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 1438,
+              "HttpStatus": 200,
+              "Size": 100594,
+              "URL": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN014xkoQQ2GdSAveJXFx_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 218,
+              "EventId": 1363,
+              "HttpStatus": 200,
+              "Size": 171327,
+              "URL": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN0120RZeb2GdS9Y1Di4t_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 203,
+              "EventId": 1359,
+              "HttpStatus": 200,
+              "Size": 68980,
+              "URL": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01loN7072GdS9ywaoRL_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 1357,
+              "HttpStatus": 200,
+              "Size": 102298,
+              "URL": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01cde4Um2GdSBACqalb_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 218,
+              "EventId": 1355,
+              "HttpStatus": 200,
+              "Size": 142153,
+              "URL": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01aoFZAk2GdS9XoK443_!!0-item_pic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 1351,
+              "HttpStatus": 200,
+              "Size": 115205,
+              "URL": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01AsilxX2GdS8mRMI0K_!!2-item_pic.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 140,
+              "EventId": 1251,
+              "HttpStatus": 200,
+              "Size": 258894,
+              "URL": "https://img.alicdn.com/tps/i4/TB1pyYkbRCw3KVjSZFlSuwJkFXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 125,
+              "EventId": 530,
+              "HttpStatus": 200,
+              "Size": 2186,
+              "URL": "https://img.alicdn.com/tfs/TB1nKBNXgaH3KVjSZFpXXbhKpXa-720-440.jpg_q75.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 125,
+              "EventId": 522,
+              "HttpStatus": 200,
+              "Size": 1150,
+              "URL": "https://img.alicdn.com/tfs/TB1RxAHSmrqK1RjSZK9XXXyypXa-16-16.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 489,
+              "HttpStatus": 200,
+              "Size": 18146,
+              "URL": "https://img.alicdn.com/tfs/TB19yBbRSzqK1RjSZFLXXcn2XXa-230-104.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 109,
+              "EventId": 400,
+              "HttpStatus": 200,
+              "Size": 497,
+              "URL": "https://img.alicdn.com/tfs/TB1XHDuxNGYBuNjy0FnXXX5lpXa-28-32.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 109,
+              "EventId": 383,
+              "HttpStatus": 200,
+              "Size": 1259,
+              "URL": "https://img.alicdn.com/tfs/TB1WDcISkvoK1RjSZFNXXcxMVXa-540-720.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 350,
+              "HttpStatus": 200,
+              "Size": 3582,
+              "URL": "https://img.alicdn.com/tfs/TB1fbVFfu3tHKVjSZSgXXX4QFXa-230-104.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 343,
+              "HttpStatus": 200,
+              "Size": 18924,
+              "URL": "https://img.alicdn.com/tfs/TB1TBEJSkvoK1RjSZFNXXcxMVXa-280-280.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 327,
+              "HttpStatus": 200,
+              "Size": 2270,
+              "URL": "https://img.alicdn.com/tfs/TB1u1U9xmzqK1RjSZFHXXb3CpXa-64-180.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 188,
+              "EventId": 314,
+              "HttpStatus": 200,
+              "Size": 133603,
+              "URL": "https://img.alicdn.com/tps/i4/TB1U5hJUNTpK1RjSZFKSuu2wXXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 219,
+              "EventId": 288,
+              "HttpStatus": 200,
+              "Size": 263555,
+              "URL": "https://img.alicdn.com/tps/i4/TB1.GoBchiH3KVjSZPfSutBiVXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 264,
+              "HttpStatus": 200,
+              "Size": 9305,
+              "URL": "https://img.alicdn.com/tfs/TB1U9R8GY9YBuNjy0FgXXcxcXXa-146-1822.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 223,
+              "HttpStatus": 200,
+              "Size": 324593,
+              "URL": "https://img.alicdn.com/tps/i4/TB1fXCQX8Cw3KVjSZFlSuwJkFXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 109,
+              "EventId": 203,
+              "HttpStatus": 200,
+              "Size": 151435,
+              "URL": "https://img.alicdn.com/tps/i4/TB1aBK9claE3KVjSZLeSutsSFXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 196,
+              "HttpStatus": 200,
+              "Size": 2066,
+              "URL": "https://img.alicdn.com/tfs/TB13UKCGQyWBuNjy0FpXXassXXa-54-54.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 109,
+              "EventId": 193,
+              "HttpStatus": 200,
+              "Size": 2771,
+              "URL": "https://img.alicdn.com/tfs/TB1pM_ZxNWYBuNjy1zkXXXGGpXa-114-40.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 191,
+              "HttpStatus": 200,
+              "Size": 1029,
+              "URL": "https://img.alicdn.com/tfs/TB1C4nNxTlYBeNjSszcXXbwhFXa-114-42.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 189,
+              "HttpStatus": 200,
+              "Size": 1625,
+              "URL": "https://img.alicdn.com/tfs/TB1Y580pyOYBuNjSsD4XXbSkFXa-83-50.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 187,
+              "HttpStatus": 200,
+              "Size": 2612,
+              "URL": "https://img.alicdn.com/tfs/TB1ZO80pyOYBuNjSsD4XXbSkFXa-141-41.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 110,
+              "EventId": 183,
+              "HttpStatus": 200,
+              "Size": 500,
+              "URL": "https://img.alicdn.com/tfs/TB1qv3jxGmWBuNjy1XaXXXCbXXa-34-36.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 181,
+              "HttpStatus": 200,
+              "Size": 2694,
+              "URL": "https://img.alicdn.com/tfs/TB1gw_ZxNWYBuNjy1zkXXXGGpXa-131-32.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 164,
+              "HttpStatus": 200,
+              "Size": 2245,
+              "URL": "https://img.alicdn.com/tfs/TB1otMASmzqK1RjSZPxXXc4tVXa-167-60.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 218,
+              "EventId": 153,
+              "HttpStatus": 200,
+              "Size": 130598,
+              "URL": "https://img.alicdn.com/tps/i4/TB14LJYqyMnBKNjSZFzxKQ_qVXa.jpeg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 188,
+              "EventId": 144,
+              "HttpStatus": 200,
+              "Size": 248970,
+              "URL": "https://img.alicdn.com/tps/i4/TB1d9yfcBWD3KVjSZFsSuwqkpXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 124,
+              "HttpStatus": 200,
+              "Size": 54900,
+              "URL": "https://img.alicdn.com/tps/i4/TB1pfy8cfWG3KVjSZFPSutaiXXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 121,
+              "HttpStatus": 200,
+              "Size": 234116,
+              "URL": "https://img.alicdn.com/tps/i4/TB1QmMQchiH3KVjSZPfSutBiVXa.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 110,
+              "EventId": 117,
+              "HttpStatus": 200,
+              "Size": 2695,
+              "URL": "https://img.alicdn.com/tfs/TB14UKCGQyWBuNjy0FpXXassXXa-54-54.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 109,
+              "EventId": 113,
+              "HttpStatus": 200,
+              "Size": 268,
+              "URL": "https://img.alicdn.com/tfs/TB1vnUBxStYBeNjSspaXXaOOFXa-20-12.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 111,
+              "HttpStatus": 200,
+              "Size": 1967,
+              "URL": "https://img.alicdn.com/tfs/TB1A9eIGKuSBuNjy1XcXXcYjFXa-54-54.png"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "222.22.29.125",
+          "IncludeInScript": true,
+          "Name": "g.alicdn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 1651,
+              "HttpStatus": 200,
+              "Size": 5173,
+              "URL": "https://g.alicdn.com/alilog/oneplus/blk.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 1616,
+              "HttpStatus": 200,
+              "Size": 5173,
+              "URL": "https://g.alicdn.com/alilog/oneplus/blk.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 1527,
+              "HttpStatus": 200,
+              "Size": 100519,
+              "URL": "https://g.alicdn.com/kissy/k/6.2.4/??base.js,attribute.js,event-custom.js,event-base.js,io.js,io-extra.js,io-base.js,promise.js,dom-base.js,query-selector-base.js,dom-extra.js,io-form.js,node.js,node-base.js,node-event.js,event-dom-base.js,event-dom-extra.js,event-gesture.js,event-touch.js,node-anim.js,anim-transition.js,anim-base.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 1512,
+              "HttpStatus": 200,
+              "Size": 147982,
+              "URL": "https://g.alicdn.com/damai/??/vue-pc/0.0.32/vendor.js,vue-pc/0.0.32/search/search.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 1510,
+              "HttpStatus": 200,
+              "Size": 9020,
+              "URL": "https://g.alicdn.com/damai/pc/1.0.42/p/head/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 1505,
+              "HttpStatus": 200,
+              "Size": 16819,
+              "URL": "https://g.alicdn.com/damai/??/vue-pc/0.0.32/vendor.css,vue-pc/0.0.32/search/search.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 1502,
+              "HttpStatus": 200,
+              "Size": 3195,
+              "URL": "https://g.alicdn.com/??damai/pc/1.0.42/p/head/index.css,damai/pc/1.0.42/p/footer/index.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 1216,
+              "HttpStatus": 200,
+              "Size": 5173,
+              "URL": "https://g.alicdn.com/alilog/oneplus/blk.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 706,
+              "HttpStatus": 200,
+              "Size": 5173,
+              "URL": "https://g.alicdn.com/alilog/oneplus/blk.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 700,
+              "HttpStatus": 200,
+              "Size": 2302,
+              "URL": "https://g.alicdn.com/sd/pointman/js/pt2.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 588,
+              "HttpStatus": 200,
+              "Size": 136444,
+              "URL": "https://g.alicdn.com/AWSC/uab/118.js?d=12"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 583,
+              "HttpStatus": 200,
+              "Size": 3019,
+              "URL": "https://g.alicdn.com/sd/sufei/0.3.112/app/common/sufei-seed.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 581,
+              "HttpStatus": 200,
+              "Size": 2006,
+              "URL": "https://g.alicdn.com/AWSC/AWSC/awsc.js?_t=216713"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 565,
+              "HttpStatus": 200,
+              "Size": 144209,
+              "URL": "https://g.alicdn.com/AWSC/WebUMID/1.72.0/um.js?d=12"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 561,
+              "HttpStatus": 200,
+              "Size": 61121,
+              "URL": "https://g.alicdn.com/sd/ncpc/nc.js?t=2015052012"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 188,
+              "EventId": 553,
+              "HttpStatus": 200,
+              "Size": 1816,
+              "URL": "https://g.alicdn.com/vip/havana-nlogin/0.0.4/css/damai.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 110,
+              "EventId": 551,
+              "HttpStatus": 200,
+              "Size": 2317,
+              "URL": "https://g.alicdn.com/sd/pointman/js/pt2.js?_=1560334364176"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 544,
+              "HttpStatus": 200,
+              "Size": 73897,
+              "URL": "https://g.alicdn.com/vip/havana-nlogin/0.3.3/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 542,
+              "HttpStatus": 200,
+              "Size": 14124,
+              "URL": "https://g.alicdn.com/vip/havana-nlogin/0.3.3/index.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 525,
+              "HttpStatus": 200,
+              "Size": 5158,
+              "URL": "https://g.alicdn.com/sd/sufei/0.2.4/app/common/sufei-kissy.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 520,
+              "HttpStatus": 200,
+              "Size": 3593,
+              "URL": "https://g.alicdn.com/kissy/k/6.2.4/??base-min.js,attribute-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 517,
+              "HttpStatus": 200,
+              "Size": 5173,
+              "URL": "https://g.alicdn.com/alilog/oneplus/blk.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 512,
+              "HttpStatus": 200,
+              "Size": 43117,
+              "URL": "https://g.alicdn.com/kissy/k/6.2.4/??promise-min.js,node-min.js,node-base-min.js,dom-base-min.js,query-selector-base-min.js,dom-extra-min.js,node-event-min.js,event-dom-base-min.js,event-base-min.js,event-dom-extra-min.js,event-gesture-min.js,event-touch-min.js,node-anim-min.js,anim-transition-min.js,anim-base-min.js,io-min.js,io-extra-min.js,io-base-min.js,io-form-min.js,json-base-min.js,event-custom-min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 510,
+              "HttpStatus": 200,
+              "Size": 1006,
+              "URL": "https://g.alicdn.com/alilog/oneplus/entry.js?t=216713"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 505,
+              "HttpStatus": 200,
+              "Size": 2478,
+              "URL": "https://g.alicdn.com/damai-mod/??kissy-login-top/0.0.9/index.js,kissy-login/0.0.26/index.js,kissy-pc-footer/0.0.3/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 497,
+              "HttpStatus": 200,
+              "Size": 14930,
+              "URL": "https://g.alicdn.com/code/npm/@ali/??straw/1.1.1/index.cmd.js,xctrl/7.2.4/xctrl-kissy.cmd.js,pi-kissy-pc/0.0.32/index.cmd.js,pi-kissy-pc/0.0.32/mod-base.cmd.js,xtemplate/4.5.0/runtime.cmd.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 495,
+              "HttpStatus": 200,
+              "Size": 617,
+              "URL": "https://g.alicdn.com/code/npm/@ali/init-kissy-pc/0.0.11/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 203,
+              "EventId": 493,
+              "HttpStatus": 200,
+              "Size": 648,
+              "URL": "https://g.alicdn.com/??damai/pc/1.0.5/p/footer/index.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 485,
+              "HttpStatus": 200,
+              "Size": 3051,
+              "URL": "https://g.alicdn.com/tb/login/0.3.8/havanalogin/js/mini-login-embedder-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 478,
+              "HttpStatus": 200,
+              "Size": 528,
+              "URL": "https://g.alicdn.com/damai-mod/??kissy-login-top/0.0.9/index.css,kissy-login/0.0.26/index.css,kissy-pc-footer/0.0.3/index.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 476,
+              "HttpStatus": 200,
+              "Size": 33971,
+              "URL": "https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.4.2/mtop.cmd.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 474,
+              "HttpStatus": 200,
+              "Size": 558,
+              "URL": "https://g.alicdn.com/tms/layouts/0.0.5/layout-pc.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 472,
+              "HttpStatus": 200,
+              "Size": 657,
+              "URL": "https://g.alicdn.com/tbc/global/0.0.8/index-min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 282,
+              "HttpStatus": 200,
+              "Size": 100887,
+              "URL": "https://g.alicdn.com/kissy/k/6.2.4/??base.js,attribute.js,event-custom.js,event-base.js,io.js,io-extra.js,io-base.js,promise.js,dom-base.js,query-selector-base.js,dom-extra.js,io-form.js,event.js,event-dom-base.js,event-dom-extra.js,event-gesture.js,event-touch.js,node.js,node-base.js,node-event.js,node-anim.js,anim-transition.js,anim-base.js,json-base.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 275,
+              "HttpStatus": 200,
+              "Size": 54572,
+              "URL": "https://g.alicdn.com/secdev/nsv/1.0.60/ns_b_71_3_n.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 273,
+              "HttpStatus": 200,
+              "Size": 8068,
+              "URL": "https://g.alicdn.com/secdev/sufei_data/3.7.2/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 266,
+              "HttpStatus": 200,
+              "Size": 1127,
+              "URL": "https://g.alicdn.com/secdev/entry/index.js?t=216713"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 141,
+              "EventId": 261,
+              "HttpStatus": 200,
+              "Size": 22437,
+              "URL": "https://g.alicdn.com/damai/pc/1.0.42/p/index/index.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 258,
+              "HttpStatus": 200,
+              "Size": 6076,
+              "URL": "https://g.alicdn.com/alilog/mlog/aplus_v2.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 256,
+              "HttpStatus": 200,
+              "Size": 7993,
+              "URL": "https://g.alicdn.com/dt/tracker/3.5.4/??tracker.Tracker.js,tracker.interfaceTrackerPlugin.js,tracker.performanceTrackerPlugin.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 187,
+              "EventId": 248,
+              "HttpStatus": 200,
+              "Size": 4512,
+              "URL": "https://g.alicdn.com/damai/pc/1.0.42/p/index/index.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 219,
+              "HttpStatus": 200,
+              "Size": 63703,
+              "URL": "https://g.alicdn.com/kissy/k/6.2.4/seed.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "140.249.40.253",
+          "IncludeInScript": true,
+          "Name": "drc.alicdn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 736,
+              "HttpStatus": 200,
+              "Size": 180,
+              "URL": "https://drc.alicdn.com/7/2673210_0____?callback=jsonp2673210_0____"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "222.192.186.108",
+          "IncludeInScript": true,
+          "Name": "at.alicdn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 31,
+              "EventId": 685,
+              "HttpStatus": 200,
+              "Size": 9712,
+              "URL": "https://at.alicdn.com/t/font_583095_px6fdfrs0w9.eot?t=1539232731353"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 16,
+              "EventId": 667,
+              "HttpStatus": 200,
+              "Size": 8412,
+              "URL": "https://at.alicdn.com/t/font_1465353706_4784257.eot?"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "alibaba.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "203.119.214.247",
+          "IncludeInScript": true,
+          "Name": "fourier.alibaba.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 623,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://fourier.alibaba.com/ts?url=https%3A%2F%2Ftce.taobao.com%2Fapi%2Fmget.htm%3Fcallback%3DjsonpXctrl78%26tce_sid%3D2673210%26tce_vid%3D0%26tid%3D%26tab%3D%26topic%3D%26count%3D%26env%3Donline&token=BAAA_uTaScPmRzXHh_rC7dtW2Y7SieRTmYyTMnqRzJuu9aAfIpm049ZDCZ-Q3pwr&cna=gJuHFQJpXnQCAcp4CxqZ%2F85N&ext=0"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "aliapp.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "203.119.211.253",
+          "IncludeInScript": true,
+          "Name": "ynuf.aliapp.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 125,
+              "EventId": 720,
+              "HttpStatus": 200,
+              "Size": 115,
+              "URL": "https://ynuf.aliapp.org/service/um.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 110,
+              "EventId": 717,
+              "HttpStatus": 200,
+              "Size": 115,
+              "URL": "https://ynuf.aliapp.org/service/um.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 696,
+              "HttpStatus": 200,
+              "Size": 656,
+              "URL": "https://ynuf.aliapp.org/if.htm?hybrid=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 47,
+              "EventId": 663,
+              "HttpStatus": 200,
+              "Size": 49,
+              "URL": "https://ynuf.aliapp.org/w/cb.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 17
+}

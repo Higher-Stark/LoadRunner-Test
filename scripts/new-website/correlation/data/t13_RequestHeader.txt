@@ -1,0 +1,10 @@
+GET /alilog/oneplus/blk.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: https://ipassport.damai.cn/mini_login.htm?lang=zh_cn&appName=damai&appEntrance=default&styleType=vertical&bizParams=&notLoadSsoView=true&notKeepLogin=false&isMobile=false&regUrl=https%3A%2F%2Fpassport.damai.cn%2Fregister&plainReturnUrl=https%3A%2F%2Fpassport.damai.cn%2Flogin&returnUrl=https%3A%2F%2Fpassport.damai.cn%2Fdologin.htm%3FredirectUrl%3Dhttps%25253A%25252F%25252Fwww.damai.cn%25252F%26platform%3D106002&rnd=0.06607697544634017
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: g.alicdn.com
+Connection: Keep-Alive
+Cookie: _lastvisited=gJuHFQJpXnQCAcp4CxqZ%2F85N%2C%2CgJuHFQJpXnQCAcp4CxqZ85N2I7xlBbdn%2Cjwsxirp3%2Cjwsxirp3%2C3%2C6273fb8a%2CgJuHFQJpXnQCAcp4CxqZ%2F85N%2Cjwt2sj7z; _uab_collina=156032550894255089118341; _umdata=G673FD460EC71B1D889EF0F3A2FBD2FE95FB006
+

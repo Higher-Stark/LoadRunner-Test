@@ -1,0 +1,10 @@
+GET /mini_login.htm?lang=zh_cn&appName=damai&appEntrance=default&styleType=vertical&bizParams=&notLoadSsoView=true&notKeepLogin=false&isMobile=false&regUrl=https%3A%2F%2Fpassport.damai.cn%2Fregister&plainReturnUrl=https%3A%2F%2Fpassport.damai.cn%2Flogin&returnUrl=https%3A%2F%2Fpassport.damai.cn%2Fdologin.htm%3FredirectUrl%3Dhttps%25253A%25252F%25252Fwww.damai.cn%25252F%26platform%3D106002&rnd=0.06607697544634017 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Host: ipassport.damai.cn
+Connection: Keep-Alive
+Referer: https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: _uab_collina=156032550997478793007597; last_cc=ED88FF62368F5E22158DA314EE08745D; last_u_damai_damai=eyJoaWQiOjQwMTk5NjY2MjMsImxvZ2luSWQiOiIxODU3MDgwMzQ3OSIsInNnIjoiMmZhZHMwMTMxMTJiNmZhYTE5ZTdmZTUwMmIyNTAwODA4NTdjYyJ9; last_ae_damai=damai; destCity=%u5317%u4EAC; isg=BDo6Uer4M7Wwxr9Z2dio200Ug2Bc677FL46ZDEQz5k2YN9pxLHsO1QDFgwFOvDZd; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1RH2BOCanurza77OSCRYYuPzaNbMi_5w86T6-X7OkjpAeF96VsCR_O8B4o5D9zJ9-etuZ; damai.cn_nickName=skyyy1
+

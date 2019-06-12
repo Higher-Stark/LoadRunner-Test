@@ -1,0 +1,9 @@
+GET /7/2673210_0____?callback=jsonp2673210_0____ HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Host: drc.alicdn.com
+Connection: Keep-Alive
+Referer: https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+

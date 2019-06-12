@@ -1,0 +1,15 @@
+[t26]
+FileName1=t26_gl.html
+URL1=https://search.damai.cn/external/gl.html?projects=174468,591018612130,591279136759,590396672096,593261838804,588989395698,174052&ctl=
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_26.xml
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t26_ResponseHeader.txt
+FileName2=t26_O1CN01CC4oce2GdS9oppKWH_!!0-item_pic.jpg_q60.jpg
+URL2=https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01CC4oce2GdS9oppKWH_!!0-item_pic.jpg_q60.jpg
+FileName3=t26_O1CN016zj9aG2GdS9qUSpew_!!0-item_pic.jpg_q60.jpg
+URL3=https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN016zj9aG2GdS9qUSpew_!!0-item_pic.jpg_q60.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

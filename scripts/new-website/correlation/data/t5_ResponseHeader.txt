@@ -1,0 +1,20 @@
+HTTP/1.1 200 
+Date: Wed, 12 Jun 2019 10:12:50 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ufe-result: A6
+Vary: Accept-Encoding
+X-Application-Context: umid-web:cn-prod:7001
+Cache-Control: max-age=604800
+Set-Cookie: ifc=GCF4DB92B9CAB42EFCD0A55601125C4FE22D296; Max-Age=31536000; Expires=Thu, 11-Jun-2020 10:12:50 GMT; Domain=ynuf.aliapp.org; Path=/
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Language: zh-CN
+Content-Encoding: gzip
+Server: Tengine/Aserver
+EagleEye-TraceId: 0b8d10f015603343708777225e1b5f
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *
+

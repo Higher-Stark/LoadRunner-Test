@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2019 10:12:44 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Htrace-id: 0ba9e91015603343641355586e1a90
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+Set-Cookie: cookie2=1105503aa780809d6c280e208fd5f29d; Domain=.damai.cn; Path=/; HttpOnly
+Set-Cookie: _tb_token_=7b38330e51375; Domain=.damai.cn; Path=/
+havana_s_v: 4.0.1.2-SNAPSHOT
+havana_s_ip: 4547514b654a7a76436638433330493d
+havana_s_host: 514965386569716e57784a3343762f5647316c554f6e394b6b44786b5745466d59786854336f5a51474c5a576b367249
+havana_s_tag: 285873024335956|201326592^|^^
+havana_s_ucode: CN:CENTER
+havana_s_tid: 0ba9e91015603343641355586e1a90
+havana_s_group: havana-session
+havana_s_status: STATUS_NOT_EXISTED
+Content-Language: zh-CN
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Cache-Control: no-store
+Content-Encoding: gzip
+Server: Tengine/Aserver
+EagleEye-TraceId: 0ba9e91015603343641355586e1a90
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+

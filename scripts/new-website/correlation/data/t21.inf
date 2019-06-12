@@ -1,0 +1,13 @@
+[t21]
+FileName1=t21.htm
+URL1=https://g.alicdn.com/alilog/oneplus/blk.html
+Total=2
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_21.xml
+FileName2=t21_cf23ea3e-558b-4a2b-9dbd-0ee51ebba97d.html
+URL2=https://damaipimg.oss-cn-beijing.aliyuncs.com/cfs/src/cf23ea3e-558b-4a2b-9dbd-0ee51ebba97d.png?x-oss-process=image/resize,w_1/format,webp
+[ProtocolInfo]
+ProtocolId=QTWeb

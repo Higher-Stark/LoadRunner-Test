@@ -1,0 +1,10 @@
+GET /api/mget.htm?callback=jsonpXctrl78&tce_sid=2673210&tce_vid=0&tid=&tab=&topic=&count=&env=online HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Host: tce.taobao.com
+Connection: Keep-Alive
+Referer: https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: t=5a2fb0cc9f99d07697e8f0d5d532c2fc
+
