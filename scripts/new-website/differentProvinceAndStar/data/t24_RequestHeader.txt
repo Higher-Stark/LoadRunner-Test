@@ -1,0 +1,10 @@
+GET /external/gl.html?type=1&projects=596174806847 HTTP/1.1
+Accept: application/json, text/plain, */*
+Referer: https://detail.damai.cn/item.htm?spm=a2oeg.home.card_1.ditem_4.591b23e1KFEJ4s&id=596174806847
+Accept-Language: zh-CN
+Origin: https://detail.damai.cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: search.damai.cn
+Connection: Keep-Alive
+

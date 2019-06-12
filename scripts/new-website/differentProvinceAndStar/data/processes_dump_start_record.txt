@@ -1,0 +1,232 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 144
+Failed to get information of process Id: 428
+Failed to get information of process Id: 748
+Failed to get information of process Id: 848
+Failed to get information of process Id: 856
+Failed to get information of process Id: 920
+Failed to get information of process Id: 936
+Failed to get information of process Id: 1016
+Failed to get information of process Id: 672
+Failed to get information of process Id: 724
+Failed to get information of process Id: 752
+Failed to get information of process Id: 988
+Failed to get information of process Id: 448
+Failed to get information of process Id: 1120
+Failed to get information of process Id: 1164
+Failed to get information of process Id: 1264
+Failed to get information of process Id: 1348
+Failed to get information of process Id: 1384
+Failed to get information of process Id: 1392
+Failed to get information of process Id: 1400
+Failed to get information of process Id: 1532
+Failed to get information of process Id: 1540
+Failed to get information of process Id: 1672
+Failed to get information of process Id: 1680
+Failed to get information of process Id: 1764
+Failed to get information of process Id: 1808
+Failed to get information of process Id: 1928
+Failed to get information of process Id: 1960
+Failed to get information of process Id: 2016
+Failed to get information of process Id: 1508
+Failed to get information of process Id: 1584
+Failed to get information of process Id: 2088
+Failed to get information of process Id: 2208
+Failed to get information of process Id: 2220
+Failed to get information of process Id: 2228
+Failed to get information of process Id: 2236
+Failed to get information of process Id: 2384
+Failed to get information of process Id: 2424
+Failed to get information of process Id: 2436
+Failed to get information of process Id: 2536
+Failed to get information of process Id: 2552
+Failed to get information of process Id: 2624
+Failed to get information of process Id: 2632
+Failed to get information of process Id: 2640
+Failed to get information of process Id: 2648
+Failed to get information of process Id: 2824
+Failed to get information of process Id: 2840
+Failed to get information of process Id: 2920
+Failed to get information of process Id: 2928
+Failed to get information of process Id: 2988
+Failed to get information of process Id: 3036
+Failed to get information of process Id: 3048
+Failed to get information of process Id: 3076
+Failed to get information of process Id: 3176
+Failed to get information of process Id: 3272
+Failed to get information of process Id: 3296
+Failed to get information of process Id: 3364
+Failed to get information of process Id: 3404
+Failed to get information of process Id: 3540
+Failed to get information of process Id: 3548
+Failed to get information of process Id: 3556
+Failed to get information of process Id: 3740
+Failed to get information of process Id: 3780
+Failed to get information of process Id: 3812
+Failed to get information of process Id: 3912
+Failed to get information of process Id: 3952
+Failed to get information of process Id: 4164
+Failed to get information of process Id: 4172
+Failed to get information of process Id: 4184
+Failed to get information of process Id: 4228
+Failed to get information of process Id: 4236
+Failed to get information of process Id: 4352
+Failed to get information of process Id: 4384
+Failed to get information of process Id: 4464
+Failed to get information of process Id: 4512
+Failed to get information of process Id: 4632
+PROCESS 0x1230      hpjumpstartlaunch.exe
+PROCESS 0x12b8      armsvc.exe
+Failed to get information of process Id: 4800
+Failed to get information of process Id: 4812
+Failed to get information of process Id: 4824
+Failed to get information of process Id: 4836
+Failed to get information of process Id: 4844
+Failed to get information of process Id: 4852
+Failed to get information of process Id: 4864
+Failed to get information of process Id: 4884
+Failed to get information of process Id: 4896
+Failed to get information of process Id: 4904
+Failed to get information of process Id: 4912
+PROCESS 0x1348      hpwmisvc.exe
+Failed to get information of process Id: 4944
+PROCESS 0x1358      nvtelemetrycontainer.exe
+Failed to get information of process Id: 4960
+Failed to get information of process Id: 4988
+Failed to get information of process Id: 4996
+Failed to get information of process Id: 5032
+Failed to get information of process Id: 5044
+Failed to get information of process Id: 5056
+Failed to get information of process Id: 5064
+Failed to get information of process Id: 5096
+PROCESS 0x10a4      vmnat.exe
+Failed to get information of process Id: 4284
+PROCESS 0x10c4      vmnetdhcp.exe
+PROCESS 0x2e0       qqprotect.exe
+PROCESS 0x116c      qqmicrogameboxservice.exe
+Failed to get information of process Id: 5156
+PROCESS 0x1454      fnplicensingservice.exe
+Failed to get information of process Id: 5332
+Failed to get information of process Id: 5520
+Failed to get information of process Id: 5628
+Failed to get information of process Id: 5788
+Failed to get information of process Id: 5884
+Failed to get information of process Id: 6008
+PROCESS 0x17b8      vmware-authd.exe
+Failed to get information of process Id: 6108
+Failed to get information of process Id: 6272
+Failed to get information of process Id: 6472
+Failed to get information of process Id: 6532
+Failed to get information of process Id: 6644
+Failed to get information of process Id: 6820
+Failed to get information of process Id: 6996
+Failed to get information of process Id: 7368
+Failed to get information of process Id: 7528
+Failed to get information of process Id: 7468
+Failed to get information of process Id: 8096
+Failed to get information of process Id: 8300
+Failed to get information of process Id: 8360
+Failed to get information of process Id: 8540
+Failed to get information of process Id: 8812
+PROCESS 0x2354      vmware-hostd.exe
+Failed to get information of process Id: 9176
+Failed to get information of process Id: 9248
+Failed to get information of process Id: 9444
+Failed to get information of process Id: 9572
+Failed to get information of process Id: 9664
+Failed to get information of process Id: 9748
+Failed to get information of process Id: 9468
+Failed to get information of process Id: 9656
+Failed to get information of process Id: 10392
+Failed to get information of process Id: 10448
+Failed to get information of process Id: 10628
+Failed to get information of process Id: 10764
+Failed to get information of process Id: 4768
+Failed to get information of process Id: 4680
+Failed to get information of process Id: 656
+Failed to get information of process Id: 8124
+Failed to get information of process Id: 11708
+Failed to get information of process Id: 11900
+Failed to get information of process Id: 11748
+PROCESS 0x50c       googlecrashhandler.exe
+Failed to get information of process Id: 1640
+Failed to get information of process Id: 12656
+Failed to get information of process Id: 12752
+Failed to get information of process Id: 12916
+Failed to get information of process Id: 13048
+Failed to get information of process Id: 13120
+Failed to get information of process Id: 13240
+PROCESS 0x3530      magentproc.exe
+Failed to get information of process Id: 13756
+Failed to get information of process Id: 14084
+PROCESS 0x37f8      vugen.exe
+Failed to get information of process Id: 13092
+PROCESS 0x27c8      qq.exe
+PROCESS 0x3628      shadowsocks.exe
+Failed to get information of process Id: 12544
+PROCESS 0x247c      wechat.exe
+Failed to get information of process Id: 14400
+PROCESS 0x38d0      txplatform.exe
+PROCESS 0x39dc      ss_privoxy.exe
+Failed to get information of process Id: 14920
+PROCESS 0x3b60      yundetectservice.exe
+PROCESS 0x30f4      qqmicrogameboxtray.exe
+Failed to get information of process Id: 14280
+Failed to get information of process Id: 15328
+Failed to get information of process Id: 9520
+Failed to get information of process Id: 9480
+PROCESS 0x1e20      hpmsgsvc.exe
+Failed to get information of process Id: 15384
+Failed to get information of process Id: 15416
+Failed to get information of process Id: 15564
+Failed to get information of process Id: 15592
+Failed to get information of process Id: 15696
+Failed to get information of process Id: 15704
+PROCESS 0x3df0      vmware-tray.exe
+PROCESS 0x4024      jusched.exe
+Failed to get information of process Id: 16536
+PROCESS 0xcf0       wechatweb.exe
+Failed to get information of process Id: 5756
+Failed to get information of process Id: 5984
+Failed to get information of process Id: 6024
+Failed to get information of process Id: 16352
+Failed to get information of process Id: 10100
+Failed to get information of process Id: 17636
+Failed to get information of process Id: 17648
+Failed to get information of process Id: 17660
+Failed to get information of process Id: 17984
+Failed to get information of process Id: 18192
+Failed to get information of process Id: 17580
+Failed to get information of process Id: 9592
+Failed to get information of process Id: 4920
+Failed to get information of process Id: 13112
+Failed to get information of process Id: 17536
+PROCESS 0x4aec      hpaudioswitch.exe
+Failed to get information of process Id: 19188
+PROCESS 0x4b44      qqmgbwebserver.exe
+PROCESS 0x49f8      iastoricon.exe
+Failed to get information of process Id: 15924
+Failed to get information of process Id: 18336
+Failed to get information of process Id: 15216
+PROCESS 0xeec       hpjumpstartbridge.exe
+PROCESS 0x11d8      iastordatamgrsvc.exe
+Failed to get information of process Id: 19112
+Failed to get information of process Id: 15540
+Failed to get information of process Id: 3068
+PROCESS 0x49e8      xtuservice.exe
+Failed to get information of process Id: 1572
+Failed to get information of process Id: 17760
+Failed to get information of process Id: 5292
+Failed to get information of process Id: 19076
+PROCESS 0x33c8      rundll32.exe
+PROCESS 0x264       rundll32.exe
+PROCESS 0x31b0      rundll32.exe
+PROCESS 0x2aac      rundll32.exe
+Failed to get information of process Id: 1708
+PROCESS 0xef0       rundll32.exe
+Failed to get information of process Id: 12508
+Failed to get information of process Id: 17260
+Failed to get information of process Id: 4032
+PROCESS 0x5a4       reader_sl.exe
+PROCESS 0xac4       qqexternal.exe

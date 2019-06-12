@@ -1,0 +1,13 @@
+[t37]
+FileName1=t37.htm
+URL1=https://g.alicdn.com/alilog/oneplus/blk.html
+Total=2
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_37.xml
+FileName2=t37_v.gif
+URL2=https://log.mmstat.com/v.gif?logtype=1&title=%E5%A4%A7%E9%BA%A6%E7%BD%91-%E5%85%A8%E7%90%83%E6%BC%94%E5%87%BA%E8%B5%9B%E4%BA%8B%E5%AE%98%E6%96%B9%E8%B4%AD%E7%A5%A8%E5%B9%B3%E5%8F%B0-100%25%E6%AD%A3%E5%93%81%E3%80%81%E5%85%88%E4%BB%98%E5%85%88%E6%8A%A2%E3%80%81%E5%9C%A8%E7%BA%BF%E9%80%89%E5%BA%A7%EF%BC%81&pre=https%3A%2F%2Fwww.damai.cn%2F&scr=1280x720&cna=gJuHFQJpXnQCAcp4CxqZ/85N&spm-cnt=a2oeg.home.0.0.591b23e1EVKduH&uidaplus=&aplus&pu_i=&asid=AQAAAACN2wBdd0QTbAAAAADAeOIvXbmpBg==&sidx=0&ckx=|&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=3a75ce3&lver=8.11.5&jsver=aplus_std&pver=0.7.1&tag=1&stag=-1&lstag=-1&_slog=0
+[ProtocolInfo]
+ProtocolId=QTWeb

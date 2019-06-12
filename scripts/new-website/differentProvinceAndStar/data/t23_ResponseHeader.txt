@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2019 10:59:40 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: private
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+EagleEye-TraceId: 0bf9744515603371808735513e1c98
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+Server: Tengine/Aserver
+EagleEye-TraceId: 0bf9744515603371808735513e1c98
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+

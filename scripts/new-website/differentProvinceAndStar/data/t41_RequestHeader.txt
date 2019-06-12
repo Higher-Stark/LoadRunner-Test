@@ -1,0 +1,9 @@
+GET /damai_v2/goods/img/bg_you_know.png HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: https://piao.damai.cn/174026.html?pos=1&acm=201808136-1.1003.2.5940985&scm=1003.2.201808136-1.OTHER_1557822952817_5940985?spm=a2oeg.home.banner.ditem_0.591b23e1EVKduH&clicktitle=%E4%B8%96%E5%9B%AD%E4%BC%9A
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: dui.dmcdn.cn
+Connection: Keep-Alive
+

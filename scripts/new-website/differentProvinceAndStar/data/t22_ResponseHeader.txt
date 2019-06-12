@@ -1,0 +1,15 @@
+HTTP/1.1 200 
+Date: Wed, 12 Jun 2019 10:59:39 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+ufe-result: A6
+Vary: Accept-Encoding
+X-Application-Context: alidetail:production:7001
+Set-Cookie: JSESSIONID=3C02A31CD7DAED481DC3AE32B57768DD; Path=/; HttpOnly
+Content-Encoding: gzip
+Server: Tengine/Aserver
+EagleEye-TraceId: 0b839d3a15603371785482000ec8b0
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+

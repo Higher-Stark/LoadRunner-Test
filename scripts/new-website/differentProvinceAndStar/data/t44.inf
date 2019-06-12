@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44.htm
+URL1=https://piao.damai.cn/ajax/GetQA.html?pid=174026&t=0.55360727521377&pageidx=1
+Total=1
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_44.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

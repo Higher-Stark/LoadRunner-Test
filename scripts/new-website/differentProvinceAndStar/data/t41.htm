@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html>
+<body><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","userid=&aplus&pu_i=&asid=AQAAAACt2wBdzwRVFwAAAAA90BrbHoYtKg==&sidx=0&ckx=|",id="tb-beacon-aplus",src="//g.alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+    <!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="page-i" content="common404" />
+    <title></title>
+    <style>
+        * { margin:0px; padding:0px; }
+        html { overflow:hidden; }
+        .conten {  position:relative; }
+        .content img { width:100%; }
+        .txt { position:absolute; bottom:50px; right:100px; }
+        .txt .index { margin-left:30px; color:#868686; font-size:14px; text-decoration:none; font-family:Microsoft YaHei;  }
+        .txt .index:hover { color:#e51a45;}
+
+    </style>
+</head>
+
+<body>
+<div class="content">
+    <img id="img404" src="" >
+    <div class="txt">
+        <a class="index" href="//www.damai.cn/">回首页</a>
+    </div>
+</div>
+
+<script>
+    var utlis = (function (win, doc) {
+        var module = {};
+
+        // cookie
+        module.cookie = {};
+
+        module.cookie.set = function (key, value, times) {
+            var date = new Date();
+
+            date.setDate(date.getDate() + times);
+
+            document.cookie = key + '=' + encodeURI(value) + ';expires=' + date;
+        };
+
+        module.cookie.get = function (key) {
+            var arr = document.cookie.split('; ');
+
+            for (var i = 0; i < arr.length; i++) {
+                var tmp = arr[i].split('=');
+
+                if (tmp[0] == key) {
+                    return decodeURI(tmp[1]);
+                }
+            }
+        };
+
+        module.cookie.del = function (key) {
+            setCookie(key, 1, -1);
+        };
+
+        // rnd
+        module.random = function (n, m) {
+            switch (arguments.length) {
+                case  1: return parseInt(Math.random() * n + 1);
+                case  2: return parseInt(Math.random() * (m - n + 1) + n);
+                default: return;
+            }
+        };
+
+        return module;
+    })(window, document);
+    (function (win, doc) {
+        win.onload = function () {
+            var data = [{
+                title: '缅怀John Lennon-大麦网404',
+                image: 'https://img.alicdn.com/tfs/TB1_SRaAuSSBuNjy0FlXXbBpVXa-1366-1024.png'
+            }, {
+                title: '缅怀邓丽君-大麦网404',
+                image: 'https://img.alicdn.com/tfs/TB1O8x0ADlYBeNjSszcXXbwhFXa-1366-1024.png'
+            }, {
+                title: '缅怀黄家驹-大麦网404',
+                image: 'https://img.alicdn.com/tfs/TB1HDRlAx1YBuNjy1zcXXbNcXXa-1366-1024.png'
+            }, {
+                title: '缅怀张国荣-大麦网404',
+                image: 'https://img.alicdn.com/tfs/TB1gVhvAACWBuNjy0FaXXXUlXXa-1366-1024.png'
+            }];
+
+            var cookieNum = utlis.cookie.get('page404.num');
+            var num = utlis.random(0, data.length - 1);
+
+            if (!cookieNum || cookieNum.split(' ').length < data.length) {
+                while (cookieNum && cookieNum.indexOf(num) !== -1) {
+                    num = utlis.random(0, data.length - 1);
+                }
+
+                var arr = [];
+
+                cookieNum && (arr = cookieNum.split(' '));
+
+                arr.push(num);
+
+                cookieNum = arr.join(' ');
+
+                utlis.cookie.set('page404.num', cookieNum, 1000000);
+            }
+
+            var img404 = doc.getElementById('img404');
+
+            img404.src = data[num].image;
+
+            doc.title = data[num].title;
+        };
+
+
+    })(window, document);
+</script>
+</body>
+</html>
+
+<hr/>
+<a href="/">Home</a>
+</body>
+</html>
