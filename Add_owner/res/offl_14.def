@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Paging rate (Unix Kernel Statistics)
+DataPointLabel_1=offline_datapoint_14
+LineTitle_1=cvm.higher-stark.site
+LineGroup_1=0
+YAxisTitle=Paging rate (Unix Kernel Statistics)
+GraphGroupMenuTitle=UNIX Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_rstat_unix
+DataPointDescr_1=Number of pages read to physical memory or written to pagefile(s), per second.

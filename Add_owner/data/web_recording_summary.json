@@ -1,0 +1,398 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ua-cpu",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 11,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "6月-12-2019",
+    "RecordingDuration": 108906,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1560338070,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 987975,
+    "TotalBytesSent": 10350,
+    "TotalRequests": 27,
+    "UserAgent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E)"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.200",
+          "IncludeInScript": true,
+          "Name": "ieonline.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 328,
+              "EventId": 1654,
+              "HttpStatus": 200,
+              "Size": 1571,
+              "URL": "https://ieonline.microsoft.com/s/iess/instrument18.cer"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/xml",
+              "DownloadTime": 391,
+              "EventId": 1571,
+              "HttpStatus": 200,
+              "Size": 160677,
+              "URL": "https://ieonline.microsoft.com/ieflipahead/ie10/rules.xml?mkt=zh-CN"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 328,
+              "EventId": 1566,
+              "HttpStatus": 200,
+              "Size": 15286,
+              "URL": "https://ieonline.microsoft.com/iedomainsuggestions/ie11/suggestions.zh-CN"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "72.21.81.200",
+          "IncludeInScript": true,
+          "Name": "iecvlist.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 282,
+              "EventId": 1491,
+              "HttpStatus": 200,
+              "Size": 27090,
+              "URL": "https://iecvlist.microsoft.com/IE11/1478281996/iecompatviewlist.xml"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.77.21.104",
+          "IncludeInScript": true,
+          "Name": "go.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 250,
+              "EventId": 1652,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://go.microsoft.com/fwlink/?LinkID=401135"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.184.33.132",
+          "IncludeInScript": true,
+          "Name": "c.urs.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 297,
+              "EventId": 1498,
+              "HttpStatus": 200,
+              "Size": 76261,
+              "URL": "https://c.urs.microsoft.com/l1.dat?v=3&cv=9.11.18362.0&os=10.0.18362.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "higher-stark.site",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "123.206.174.81",
+          "IncludeInScript": true,
+          "Name": "cvm.higher-stark.site",
+          "Port": 8080,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 1667,
+              "HttpStatus": 200,
+              "Size": 6964,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 1663,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 110,
+              "EventId": 1660,
+              "HttpStatus": 200,
+              "Size": 4187,
+              "URL": "http://cvm.higher-stark.site:8080/owners/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 109,
+              "EventId": 1658,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 93,
+              "EventId": 1392,
+              "HttpStatus": 200,
+              "Size": 5959,
+              "URL": "http://cvm.higher-stark.site:8080/owners/new"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 110,
+              "EventId": 1389,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 1386,
+              "HttpStatus": 200,
+              "Size": 6693,
+              "URL": "http://cvm.higher-stark.site:8080/owners?lastName="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 1383,
+              "HttpStatus": 200,
+              "Size": 3705,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow-mobile.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 1380,
+              "HttpStatus": 200,
+              "Size": 4202,
+              "URL": "http://cvm.higher-stark.site:8080/owners/find"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 1378,
+              "HttpStatus": 200,
+              "Size": 528,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/favicon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 0,
+              "EventId": 1323,
+              "HttpStatus": 200,
+              "Size": 6888,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 15,
+              "EventId": 1318,
+              "HttpStatus": 200,
+              "Size": 20127,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/fonts/glyphicons-halflings-regular.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 15,
+              "EventId": 1314,
+              "HttpStatus": 200,
+              "Size": 20979,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/montserrat-webfont.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 16,
+              "EventId": 1305,
+              "HttpStatus": 200,
+              "Size": 28963,
+              "URL": "http://cvm.higher-stark.site:8080/resources/fonts/varela_round-webfont.eot?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 1276,
+              "HttpStatus": 200,
+              "Size": 36868,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/bootstrap/3.3.6/js/bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 1272,
+              "HttpStatus": 200,
+              "Size": 240427,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery-ui/1.11.4/jquery-ui.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 1268,
+              "HttpStatus": 200,
+              "Size": 85613,
+              "URL": "http://cvm.higher-stark.site:8080/webjars/jquery/2.2.4/jquery.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 1264,
+              "HttpStatus": 200,
+              "Size": 2818,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/spring-pivotal-logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 1256,
+              "HttpStatus": 200,
+              "Size": 67721,
+              "URL": "http://cvm.higher-stark.site:8080/resources/images/pets.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 15,
+              "EventId": 1251,
+              "HttpStatus": 200,
+              "Size": 152399,
+              "URL": "http://cvm.higher-stark.site:8080/resources/css/petclinic.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 1247,
+              "HttpStatus": 200,
+              "Size": 3645,
+              "URL": "http://cvm.higher-stark.site:8080/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

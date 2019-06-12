@@ -1,0 +1,13 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2019/06/12 11:14:30
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2019/06/12 11:21:37
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2019/06/12 11:37:13
+StartRecordingIsDst_3=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+[Security]
+UsingPersistForAuthentication=1
+[UserHomePage]
+UserHomePage=http://go.microsoft.com/fwlink/?LinkId=625115

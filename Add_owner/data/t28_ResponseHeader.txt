@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=15552000
+Content-Length: 1571
+Content-Type: text/html
+Content-Encoding: gzip
+Last-Modified: Thu, 03 Jan 2019 21:50:58 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-MSEdge-Ref: Ref A: 28C437C3808246A79B93FB8971243214 Ref B: DALEDGE0621 Ref C: 2019-06-12T11:38:34Z
+Date: Wed, 12 Jun 2019 11:38:34 GMT
+

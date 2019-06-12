@@ -1,0 +1,15 @@
+[t4]
+FileName1=t4.html
+URL1=http://cvm.higher-stark.site:8080/owners/find
+Total=3
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_success.txt
+URL2=http://detectportal.firefox.com/success.txt
+FileName3=t4_success.txt
+URL3=http://detectportal.firefox.com/success.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

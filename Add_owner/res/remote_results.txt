@@ -1,0 +1,2 @@
+[Hosts]
+localhost=E:\MARK_1\Software_Test\Load_runner\Add_owner\res\localhost_1.eve

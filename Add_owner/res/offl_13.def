@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=User mode CPU Utilization (Unix Kernel Statistics)
+DataPointLabel_1=offline_datapoint_13
+LineTitle_1=cvm.higher-stark.site
+LineGroup_1=0
+YAxisTitle=User mode CPU Utilization (Unix Kernel Statistics)
+GraphGroupMenuTitle=UNIX Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_rstat_unix
+DataPointDescr_1=Percent of time that the CPU is utilized in user mode.

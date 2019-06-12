@@ -1,0 +1,17 @@
+[t15]
+FileName1=t15.html
+URL1=http://cvm.higher-stark.site:8080/
+Total=4
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_petclinic.css
+URL2=http://cvm.higher-stark.site:8080/resources/css/petclinic.css
+FileName3=t15_jquery.min.html
+URL3=http://cvm.higher-stark.site:8080/webjars/jquery/2.2.4/jquery.min.js
+FileName4=t15_success.txt
+URL4=http://detectportal.firefox.com/success.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

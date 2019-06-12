@@ -10,6 +10,14 @@ Project("763C9438-C599-4018-B1FC-DE29E3639D43") = "Web_test", "Web_test\Web_test
 		Value = True
 	EndProjectSection
 EndProject
+Project("4D83CC89-5243-4372-8AF2-6560DFC50B4B") = "Add_owner", "Add_owner\Add_owner.usr", "4D83CC89-5243-4372-8AF2-6560DFC50B4B"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkU6XE1BUktfMVxTb2Z0d2FyZV9UZXN0XExvYWRfcnVubmVyXEFkZF9vd25lclxBZGRfb3duZXIudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkU6XE1BUktfMVxTb2Z0d2FyZV9UZXN0XExvYWRfcnVubmVyXEFkZF9vd25lclxBZGRfb3duZXIudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAxOS0wNi0xMlQxOTowOTo0Ny41NTQ5OTYrMDg6MDA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,5 +28,9 @@ Global
 		763C9438-C599-4018-B1FC-DE29E3639D43.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		763C9438-C599-4018-B1FC-DE29E3639D43.Release|Any CPU.Build.0 = Release|Any CPU
 		763C9438-C599-4018-B1FC-DE29E3639D43.Release|Any CPU.ActiveCfg = Release|Any CPU
+		4D83CC89-5243-4372-8AF2-6560DFC50B4B.Debug|Any CPU.Build.0 = Debug|Any CPU
+		4D83CC89-5243-4372-8AF2-6560DFC50B4B.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		4D83CC89-5243-4372-8AF2-6560DFC50B4B.Release|Any CPU.Build.0 = Release|Any CPU
+		4D83CC89-5243-4372-8AF2-6560DFC50B4B.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal

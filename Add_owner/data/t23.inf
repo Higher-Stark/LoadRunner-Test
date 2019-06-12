@@ -1,0 +1,13 @@
+[t23]
+FileName1=t23.html
+URL1=http://cvm.higher-stark.site:8080/owners/find
+Total=2
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t23_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_23.xml
+FileName2=t23_spring-logo-dataflow-mobile.png
+URL2=http://cvm.higher-stark.site:8080/resources/images/spring-logo-dataflow-mobile.png
+[ProtocolInfo]
+ProtocolId=QTWeb

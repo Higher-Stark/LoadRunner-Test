@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=E:\MARK_1\Software_Test\Load_runner\add_owner_10.lrs
+Completed=0
