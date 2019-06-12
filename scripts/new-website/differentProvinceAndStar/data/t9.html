@@ -1,0 +1,216 @@
+/**
+ * Created by xiaoqiang on 2018/5/21.
+ */
+
+(function (win, $) {
+    if (!window.lib.mtop) {
+        console.error('no mtop found.');
+        return;
+    }
+    var Mtop = window.lib.mtop;
+
+    var projectId = projectInfo.ProjectID;
+    if (!projectId) return;
+
+
+    var HIDE_DOM = ['#cartList', '.m-qrcode', '.m_heighlight_tip', '#buyButtonC'];
+
+    if (!window.JSON) {
+        window.JSON = {
+            parse: function (jsonStr) {
+                return eval('(' + jsonStr + ')');
+            },
+            stringify: function (jsonObj) {
+                var result = '',
+                    curVal;
+                if (jsonObj === null) {
+                    return String(jsonObj);
+                }
+                switch (typeof jsonObj) {
+                    case 'number':
+                    case 'boolean':
+                        return String(jsonObj);
+                    case 'string':
+                        return '"' + jsonObj + '"';
+                    case 'undefined':
+                    case 'function':
+                        return undefined;
+                }
+
+                switch (Object.prototype.toString.call(jsonObj)) {
+                    case '[object Array]':
+                        result += '[';
+                        for (var i = 0, len = jsonObj.length; i < len; i++) {
+                            curVal = JSON.stringify(jsonObj[i]);
+                            result += (curVal === undefined ? null : curVal) + ",";
+                        }
+                        if (result !== '[') {
+                            result = result.slice(0, -1);
+                        }
+                        result += ']';
+                        return result;
+                    case '[object Date]':
+                        return '"' + (jsonObj.toJSON ? jsonObj.toJSON() : jsonObj.toString()) + '"';
+                    case '[object RegExp]':
+                        return "{}";
+                    case '[object Object]':
+                        result += '{';
+                        for (i in jsonObj) {
+                            if (jsonObj.hasOwnProperty(i)) {
+                                curVal = JSON.stringify(jsonObj[i]);
+                                if (curVal !== undefined) {
+                                    result += '"' + i + '":' + curVal + ',';
+                                }
+                            }
+                        }
+                        if (result !== '{') {
+                            result = result.slice(0, -1);
+                        }
+                        result += '}';
+                        return result;
+
+                    case '[object String]':
+                        return '"' + jsonObj.toString() + '"';
+                    case '[object Number]':
+                    case '[object Boolean]':
+                        return jsonObj.toString();
+                }
+            }
+        };
+    }
+
+    //获取cookie信息
+    function getCookie(cookieName) {
+        let cookieArr = document.cookie.split(";");
+        if(!cookieArr || cookieArr.length == 0) return "";
+        for(let i = 0; i < cookieArr.length; i++) {
+            var cookieItem = cookieArr[i];
+            var cookiePair = cookieItem.split("=");
+            if(cookiePair[0].trim() === cookieName) {
+                return cookiePair[1];
+            }
+        }
+        return "";
+    }
+    //生成hashcode数
+    function hashCode(str){
+        var hash = 0;
+        if (str.length == 0) return hash;
+        for (i = 0; i < str.length; i++) {
+            char = str.charCodeAt(i);
+            hash = ((hash<<5)-hash)+char;
+            hash = hash & hash; // Convert to 32bit integer
+        }
+        return hash;
+    }
+    //检测元素是否在数组中存在
+    function in_array(search,array){
+        for(var i in array){
+            if(array[i]==search){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    /**
+     * 获取二维码Url
+     */
+    function getQrcode(callback) {
+        var params = {
+            api: "mtop.damai.wireless.weixin.qrcode.get",
+            v: '1.0',
+            data: {
+                qrcodeParam: JSON.stringify({
+                    "scene": "sc=pc_qr&id=" + projectId,
+                    "page": "pages/perform/index"
+                })
+            },
+            dataType: 'json',
+            ecode: 0
+        };
+
+        Mtop.request(params, function (res) {
+            var data = res.data;
+            var url = data.qrcodeURL;
+            callback && callback(url)
+
+        }, function (err) {
+            console.log(err);
+        });
+    }
+
+    function isCanBuy(callback) {
+        var params = {
+            api: "mtop.damai.wireless.projectinfo",
+            v: '1.0',
+            data: {
+                osType: 4,
+                apiVersion: 'v4',
+                projectId: projectId
+            },
+            dataType: 'json',
+            headers: {
+                'x-hm-site': 'm',
+                'x-hm-source': 10188
+            },
+            ecode: 0
+        };
+
+        Mtop.request(params, function (res) {
+            var data = res.data;
+            var ret = JSON.parse(data.result);
+            var status = ret.status;
+            //可支持购买的状态值数组
+            var buyArray = [201,202,203,204,205,206,207,208,209,210,211,212];
+            callback && callback(in_array(status,buyArray));
+
+        }, function (err) {
+            console.log(err);
+            callback && callback(false);
+        });
+    }
+
+    function getWxHtml(url, itemId) {
+        var TPL = [];
+        TPL.push('<div class="m-choose wxqrcode" data-spm-auto="" item_id="' + itemId + '">');
+        TPL.push('<h3 class="tt">扫码购票：</h3>');
+        TPL.push('<div class="ct">');
+        TPL.push('<div class="wx-msg"><span class="img-wrap"><img src="https://img.alicdn.com/tfs/TB1pEZHswmTBuNjy1XbXXaMrVXa-14-11.png" /></span>该演出需要使用手机微信扫描二维码到<span class="wx-red">大麦微信小程序上购买</span></div>');
+        TPL.push('<div class="wx-qrcode"><img src="' + url + '" /></div>');
+        TPL.push('</div>');
+        TPL.push('</div>');
+
+        return TPL.join('');
+    }
+
+    function hideDom() {
+        $(HIDE_DOM.join(',')).hide();
+        $('#cartList').attr('id', '');
+        $('#buyButtonC').attr('id', '');
+    }
+
+    function showQrcode() {
+
+        isCanBuy(function (ret) {
+            if (ret) {
+                // hide doms
+                getQrcode(function (url) {
+                    var html = getWxHtml(url, projectId);
+                    $('#cartList').before(html);
+
+                    hideDom();
+                });
+            }
+        });
+    }
+
+    //根据cna ,hashcode模100后, 是否在20%以内。
+    var _hashNum = Math.abs(hashCode(getCookie('cna')));
+
+    // 是否在白名单内
+    if (window.is_show_qr_code === 1 && (_hashNum%100)<=20) {
+        showQrcode();
+    }
+
+})(window, $);

@@ -1,0 +1,14 @@
+POST /service/um.json HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://ipassport.damai.cn/mini_login.htm?lang=zh_cn&appName=damai&appEntrance=default&styleType=vertical&bizParams=&notLoadSsoView=true&notKeepLogin=false&isMobile=false&regUrl=https%3A%2F%2Fpassport.damai.cn%2Fregister&plainReturnUrl=https%3A%2F%2Fpassport.damai.cn%2Flogin&returnUrl=https%3A%2F%2Fpassport.damai.cn%2Fdologin.htm%3FredirectUrl%3Dhttps%25253A%25252F%25252Fwww.damai.cn%25252F%26platform%3D106002&rnd=0.06607697544634017
+Accept-Language: zh-CN
+Origin: https://ipassport.damai.cn
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: ynuf.aliapp.org
+Content-Length: 868
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: isg=BFJSCWCuW-19ZqcR_tn5vmcKqxg0Y1b9l4bhRByrfoXwL_IpBPOmDVjcnUm2RM6V; cna=gJuHFZXTXxoCAcp4CxrFRT+V; umdata_=G30846E5B0DCA79E9BE58091C5513595584BF92; ifc=G1E544395D954708CE366CD3959F4775BF14253; cbc=G6280DCEB4999F7BAA9AF56D64FFFCC32F59147
+

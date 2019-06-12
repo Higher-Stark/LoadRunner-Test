@@ -1,0 +1,13 @@
+[t15]
+FileName1=t15.htm
+URL1=https://www.damai.cn/
+Total=2
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_TB1pyYkbRCw3KVjSZFlSuwJkFXa.jpg
+URL2=https://img.alicdn.com/tps/i4/TB1pyYkbRCw3KVjSZFlSuwJkFXa.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

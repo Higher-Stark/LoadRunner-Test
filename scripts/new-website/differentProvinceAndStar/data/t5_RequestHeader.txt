@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: www.damai.cn
+Connection: Keep-Alive
+Cookie: isg=BKKiEctBC_1ShBchsdBAY3Wc-ygE86YNRxYxVOw4nJXdv0M51ILSHV986znmtB6l; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1UVdBOfChurza77OqQO_8kPzaNbMiICP_lCW7KIOWZhvQk8XC31AZ1u6R3rViBUyBRYhhyIl.; damai.cn_nickName=skyyy1; destCity=%u957F%u6C99
+

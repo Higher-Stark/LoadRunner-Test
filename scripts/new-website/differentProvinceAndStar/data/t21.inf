@@ -1,0 +1,13 @@
+[t21]
+FileName1=t21_gl.html
+URL1=https://search.damai.cn/external/gl.html?type=1&projects=592315236762
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_21.xml
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+FileName2=t21_O1CN01lAtPPM2GdSAoNVqgT_!!0-item_pic.jpg_q60.jpg
+URL2=https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01lAtPPM2GdSAoNVqgT_!!0-item_pic.jpg_q60.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

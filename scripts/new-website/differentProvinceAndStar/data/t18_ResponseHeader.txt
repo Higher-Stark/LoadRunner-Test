@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Content-Length: 57
+Connection: keep-alive
+Date: Wed, 12 Jun 2019 10:59:30 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: private
+X-AspNet-Version: 4.0.30319
+Set-Cookie: page_tran_time=31.2458; path=/
+X-Powered-By: ASP.NET
+EagleEye-TraceId: 74cf71a615603371704107786e
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *, *
+Content-Encoding: gzip
+Ali-Swift-Global-Savetime: 1560337170
+Via: cache2.l2cm12[46,200-0,M], cache8.l2cm12[47,0], kunlun9.cn1241[96,200-0,M], kunlun8.cn1241[97,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 12 Jun 2019 10:59:30 GMT
+X-Swift-CacheTime: 0
+EagleId: 74cf71a615603371704107786e
+

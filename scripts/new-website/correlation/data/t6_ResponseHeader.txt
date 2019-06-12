@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2019 10:12:50 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 277
+Connection: keep-alive
+ufe-result: A6
+S: STATUS_NOT_EXISTED
+Cache-Control: max-age=10
+Set-Cookie: cookie2=1950e8e0409afc2a8888204b545fac0b;Domain=.taobao.com;Path=/;HttpOnly
+Set-Cookie: v=0; Domain=.taobao.com; Path=/
+Set-Cookie: _tb_token_=5e87ee3b6ee63; Domain=.taobao.com; Path=/
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+Content-Language: zh-CN
+Server: Tengine/Aserver
+EagleEye-TraceId: 0bb1cd1b15603343709051833e1a78
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+

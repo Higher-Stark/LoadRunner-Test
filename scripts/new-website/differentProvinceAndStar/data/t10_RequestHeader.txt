@@ -1,0 +1,10 @@
+GET /item.htm?spm=a2oeg.home.card_0.ditem_5.591b23e1KFEJ4s&id=592315236762 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Host: detail.damai.cn
+Connection: Keep-Alive
+Referer: https://www.damai.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: destCity=%u957F%u6C99; isg=BAIC86NU690ysPcB0fDgg9W8Wwhk0wbtpzZRdEwaP3X9n6EZNGOc_VedS1lG1H6F; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc17SDBOfaKurza779gIO11kPzaNbMiICPOd1k3u6RWZhvQP8DC31Aa6IvR3rViBUyBqYK5yUBR; damai.cn_nickName=skyyy1
+

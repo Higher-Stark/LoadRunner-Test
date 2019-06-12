@@ -1,0 +1,10 @@
+GET /ajax.aspx?type=388&cityID=undefined&URL=https://piao.damai.cn/176104.html?spm=a2oeg.home.card_2.ditem_6.591b23e1KFEJ4s&_=1560337171917 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Host: www.damai.cn
+Connection: Keep-Alive
+Referer: https://piao.damai.cn/176104.html?spm=a2oeg.home.card_2.ditem_6.591b23e1KFEJ4s
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: x_hm_tuid=L32rj91+xH/yyXNTOBlKSQKRSjOV2fFPXYC7RN5KFJ+ZHr6mGsq7j7KbfRl7gbBz; destCity=%u957F%u6C99; cn_7415364c9dab5n09ff68_dplus=%7B%22distinct_id%22%3A%20%2216b4b57c589139-0876a5a123cebf-771c3e02-e1000-16b4b57c58a943%22%2C%22%24_sessionid%22%3A%201%2C%22%24_sessionTime%22%3A%201560337172%2C%22%24dp%22%3A%200%2C%22%24_sessionPVTime%22%3A%201560337172%2C%22initial_view_time%22%3A%20%221560337002%22%2C%22initial_referrer%22%3A%20%22https%3A%2F%2Fwww.damai.cn%2F%22%2C%22initial_referrer_domain%22%3A%20%22www.damai.cn%22%7D; isg=BMLCu2mvK51zETfBkTCgw5V8G8gkk8atZ3YRtAzbADXdX2LZ9CLivUncC5mGFD5F; t=4d7235666549ab3f54a0d9aa895efb49; UM_distinctid=16b4b57c589139-0876a5a123cebf-771c3e02-e1000-16b4b57c58a943; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1lZKBOfChurza77OfIR_4kPzaNbMiICPszfHuQ75WZhvIOYMC31Aw10BR3rViBUyBeYBqg5..; damai.cn_nickName=skyyy1
+

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2019 10:12:51 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 291
+Connection: keep-alive
+Htrace-id: 0ba9e91015603343708855989e1a90
+havana_s_v: 4.0.1.2-SNAPSHOT
+havana_s_ip: 4547514b653159476f706877754a4a376c773d3d
+havana_s_host: 514965386569716e57784a3343762f5647316c554f6e31505758656e5359546658436e2f5076506c71396b7a4e45756c
+havana_s_tag: 285873024598016|201326592^1|^^
+havana_s_ucode: CN:CENTER
+havana_s_tid: 0ba9e91015603343708855989e1a90
+havana_s_read_unit: [CN:CENTER]
+havana_s_group: havana-session
+havana_s_status: STATUS_NOT_EXISTED
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Cache-Control: no-store
+Server: Tengine/Aserver
+EagleEye-TraceId: 0ba9e91015603343708855989e1a90
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *
+

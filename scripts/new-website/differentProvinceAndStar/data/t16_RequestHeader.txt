@@ -1,0 +1,10 @@
+GET /alime/getDialogToken?_ksTS=1560337163047_20&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://detail.damai.cn/item.htm?spm=a2oeg.home.card_0.ditem_5.591b23e1KFEJ4s&id=592315236762
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: online.damai.cn
+Connection: Keep-Alive
+Cookie: destCity=%u957F%u6C99; isg=BE5OFH2Tn7mPCCudBXxUJ7n4lyQQzxLJO3JtyHiXqtEM2-414F4K2YedF8USWArh; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1AUvBOCanurza77O7CRYYuPzaNbMi_5N16L6aa_OkjpGaFp6VsCRs08B4o5D9zJ9-etkm; damai.cn_nickName=skyyy1; x_hm_tuid=L32rj91+xH/yyXNTOBlKSQKRSjOV2fFPXYC7RN5KFJ+ZHr6mGsq7j7KbfRl7gbBz
+

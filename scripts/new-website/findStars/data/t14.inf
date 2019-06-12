@@ -1,0 +1,17 @@
+[t14]
+FileName1=t14_getDialogToken.html
+URL1=https://online.damai.cn/alime/getDialogToken?_ksTS=1560336994420_20&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback
+Total=4
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+FileName2=t14_navigation.html
+URL2=https://api-gw.damai.cn/navigation.html?_ksTS=1560336994435_35&callback=jsonp36
+FileName3=t14_TB1zmLCP4TpK1RjSZFMXXbG_VXa-200-700.png
+URL3=https://img.alicdn.com/tfs/TB1zmLCP4TpK1RjSZFMXXbG_VXa-200-700.png
+FileName4=t14_176640_n.jpg
+URL4=https://pimg.dmcdn.cn/perform/project/1766/176640_n.jpg?_t=1554347831781&x-oss-process=image/quality,q_60
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t22]
+FileName1=t22.htm
+URL1=https://detail.damai.cn/item.htm?spm=a2oeg.home.card_1.ditem_4.591b23e1KFEJ4s&id=596174806847
+Total=2
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_22.xml
+FileName2=t22_subpage.html
+URL2=https://detail.damai.cn/subpage?itemId=596174806847&dmChannel=pc@damai_pc&dataId=210055118&dataType=2&bizCode=ali.china.damai&scenario=itemsku&privilegeActId=&callback=__jp0
+[ProtocolInfo]
+ProtocolId=QTWeb

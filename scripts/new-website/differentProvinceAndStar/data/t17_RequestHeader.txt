@@ -1,0 +1,11 @@
+GET /ajax/yhcx.html?projectid=176104&cityid=872&categoryID=6 HTTP/1.1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Referer: https://piao.damai.cn/176104.html?spm=a2oeg.home.card_2.ditem_6.591b23e1KFEJ4s
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: piao.damai.cn
+Connection: Keep-Alive
+Cookie: x_hm_tuid=L32rj91+xH/yyXNTOBlKSQKRSjOV2fFPXYC7RN5KFJ+ZHr6mGsq7j7KbfRl7gbBz; destCity=%u957F%u6C99; isg=BFpa85FX01VbdF_5OTiIO230owB8i95lT-75bGTTF-241_oRTBpcdVklo2FuHFb9; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1AUtKOCanurza77O7CRYYuPzaNbMi_5N16L6aa_OkjpGaFp6VsCRs08B4o5D9zJ9-etkm; damai.cn_nickName=skyyy1; cpSTAT_ok_pages=1; cpSTAT_ok_times=1; DaMaiTicketHistory=ProList=176104%402019WWE%E7%BB%8F%E5%85%B8%E7%BE%8E%E5%BC%8F%E6%91%94%E8%B7%A4%E5%A8%B1%E4%B9%90%E7%A7%80%40sh
+
