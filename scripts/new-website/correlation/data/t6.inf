@@ -1,0 +1,15 @@
+[t6]
+FileName1=t6_mget.html
+URL1=https://tce.taobao.com/api/mget.htm?callback=jsonpXctrl78&tce_sid=2673210&tce_vid=0&tid=&tab=&topic=&count=&env=online
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_6.xml
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+FileName2=t6_pt2.html
+URL2=https://g.alicdn.com/sd/pointman/js/pt2.js
+FileName3=t6_y.gif
+URL3=https://log.mmstat.com/y.gif?logtype=0&title=&pre=https%3A%2F%2Fipassport.damai.cn%2Fmini_login.htm%3Flang%3Dzh_cn%26appName%3Ddamai%26appEntrance%3Ddefault%26styleType%3Dvertical%26bizParams%3D%26notLoadSsoView%3Dtrue%26notKeepLogin%3Dfalse%26isMobile%3Dfalse%26regUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Fregister%26plainReturnUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Flogin%26returnUrl%3Dhttps%253A%252F%252Fpassport.damai.cn%252Fdologin.htm%253FredirectUrl%253Dhttps%2525253A%2525252F%2525252Fwww.damai.cn%2525252F%2526platform%253D106002%26rnd%3D0.06607697544634017&scr=1280x720&cna=gJuHFZXTXxoCAcp4CxrFRT+V&spm-cnt=0.0.0.0.7e4fzZPLzZPLOL&category=&aplus&yunid=&&trid=0b8d10f015603343708777225e1b5f&asid=AQAAAAAi0ABdcPPpagAAAABXe3WczW4NdQ==&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=2f1dc5e&lver=8.11.5&jsver=aplus_std&pver=0.7.1&urlokey=https%253A%252F%252Fg.alicdn.com%252Fsd%252Fpointman%252Fjs%252Fpt2.js%253F_%253D1560334364176&_pw=0&_ph=0&tag=1&stag=-1&lstag=-1&_slog=0
+[ProtocolInfo]
+ProtocolId=QTWeb

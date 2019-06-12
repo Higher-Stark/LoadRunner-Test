@@ -1,0 +1,10 @@
+GET /alilog/oneplus/blk.html HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: https://piao.damai.cn/176104.html?spm=a2oeg.home.card_2.ditem_6.591b23e1KFEJ4s
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: g.alicdn.com
+Connection: Keep-Alive
+Cookie: _lastvisited=gJuHFQJpXnQCAcp4CxqZ%2F85N%2C%2CgJuHFQJpXnQCAcp4CxqZ85N2I7xlBbdn%2Cjwsxirp3%2Cjwsxirp3%2C3%2C6273fb8a%2CgJuHFQJpXnQCAcp4CxqZ%2F85N%2Cjwt4ffri; _uab_collina=156032550894255089118341; _umdata=G673FD460EC71B1D889EF0F3A2FBD2FE95FB006
+

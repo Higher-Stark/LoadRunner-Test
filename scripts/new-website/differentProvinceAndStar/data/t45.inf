@@ -1,0 +1,15 @@
+[t45]
+FileName1=t45.htm
+URL1=https://piao.damai.cn/ajax/GetClubInfo.html?projectId=174026&pageIdx=1&top=25&t=0.5481303536903206
+Total=3
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_45.xml
+FileName2=t45_m-datepicker-line.png
+URL2=https://dui.dmcdn.cn/dm_2015/goods/images/m-datepicker-line.png
+FileName3=t45_m-datepicker-angle.png
+URL3=https://dui.dmcdn.cn/dm_2015/goods/images/m-datepicker-angle.png
+[ProtocolInfo]
+ProtocolId=QTWeb

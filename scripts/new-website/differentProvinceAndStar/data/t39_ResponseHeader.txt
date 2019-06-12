@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 12 Jun 2019 11:01:56 GMT
+Set-Cookie: x_hm_tuid=T9mY6sbbcGUrofUovXIJT3kvdIL0xgfF2pmyMdOlQNJP6EemY4ILJQkyGejWwI0q; domain=.damai.cn; path=/
+x-oss-request-id: 5D00DBA421E72279ABFC3924
+x-oss-object-type: Normal
+x-oss-hash-crc64ecma: 16455868800819278909
+x-oss-storage-class: Standard
+Content-Encoding: utf-8
+Content-MD5: dcJ6K2e1xhMA5vHZ6BALaw==
+x-oss-server-time: 2
+EagleEye-TraceId: 74cf71a415603373162265111e
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *, *
+Ali-Swift-Global-Savetime: 1560337316
+Via: cache3.l2cm12[43,200-0,M], cache17.l2cm12[44,0], kunlun7.cn1241[180,200-0,M], kunlun6.cn1241[182,0]
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-SaveTime: Wed, 12 Jun 2019 11:01:56 GMT
+X-Swift-CacheTime: 180
+EagleId: 74cf71a415603373162265111e
+

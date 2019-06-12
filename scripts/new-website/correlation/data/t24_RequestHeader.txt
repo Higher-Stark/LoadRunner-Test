@@ -1,0 +1,10 @@
+GET /searchajax.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn= HTTP/1.1
+Accept: application/json, text/plain, */*
+Referer: https://search.damai.cn/search.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&spm=a2oeg.search_category.searchtxt.dsearchbtn
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: search.damai.cn
+Connection: Keep-Alive
+Cookie: destCity=%u5317%u4EAC; isg=BAQE9gaJBfdKerE7Y-7-WceK3YL2HSiH9aAXrh6l_E-SSaUTTS9XFyqqjSM0ymDf; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1CDdBOCChurza77TlCRYYuPzaNbMi_5Zk1L_xOQOkjpvaep6VsCRsY8y4o5D9zJ9-etla; damai.cn_nickName=skyyy1; cookie2=1105503aa780809d6c280e208fd5f29d; _tb_token_=7b38330e51375; _hvn_login=18; csg=0ed48de9; damai.cn_user=cavO0YOpH0Hbyx4a/q9son9wznmZ9GXCKBxCrJUX6uUinDgISXh0XpG/gzaheV7EGxb2+Rjuqig=; damai.cn_user_new=cavO0YOpH0Hbyx4a%2Fq9son9wznmZ9GXCKBxCrJUX6uUinDgISXh0XpG%2FgzaheV7EGxb2%2BRjuqig%3D; h5token=6e4d9f905b7c45ae8d62bab8729ec2fb_1_1; damai_cn_user=cavO0YOpH0Hbyx4a%2Fq9son9wznmZ9GXCKBxCrJUX6uUinDgISXh0XpG%2FgzaheV7EGxb2%2BRjuqig%3D; loginkey=6e4d9f905b7c45ae8d62bab8729ec2fb_1_1; user_id=108327328
+

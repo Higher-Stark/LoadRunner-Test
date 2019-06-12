@@ -43,9 +43,9 @@ vuser_init=0
 Action=1
 vuser_end=0
 [Replayed Actions]
-vuser_init=0
-Action=0
-vuser_end=0
+vuser_init=1
+Action=1
+vuser_end=1
 [Interpreters]
 vuser_init=cci
 Action=cci
@@ -53,10 +53,10 @@ vuser_end=cci
 [TransactionsOrder]
 Order="Add_owner_1__*delimiter*__Add_owner_2__*delimiter*__Add_pet_3"
 [StateManagement]
-LastReplayStatus=0
+LastReplayStatus=2
 [ActiveReplay]
-LastReplayedRunName=
-ActiveRunName=
+LastReplayedRunName=result1
+ActiveRunName=result1
 [Transactions]
 Add_owner_1=
 Add_owner_2=

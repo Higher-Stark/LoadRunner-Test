@@ -1,0 +1,10 @@
+GET /searchajax.html?keyword=%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn= HTTP/1.1
+Accept: application/json, text/plain, */*
+Referer: https://search.damai.cn/search.html?keyword=%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1&spm=a2oeg.search_category.searchtxt.dsearchbtn2
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: search.damai.cn
+Connection: Keep-Alive
+Cookie: destCity=%u5317%u4EAC; isg=BN3d7MH7XHxRvDhQoik3gla15LnX-hFMBM_eRZ-ieDRjVv-Ia0lAHIlFhIh1jSkE; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1A_1BOCalurza779GCRbYuPzaNbMi_5aL1Ts0QQOkjpwxe96VsClOsYX4o5D9zJtLFA8J7f..; damai.cn_nickName=skyyy1
+

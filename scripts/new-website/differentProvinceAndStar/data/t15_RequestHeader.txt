@@ -1,0 +1,11 @@
+GET /serverTime.aspx?_=1560337164642 HTTP/1.1
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: https://piao.damai.cn/176104.html?spm=a2oeg.home.card_2.ditem_6.591b23e1KFEJ4s
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: piao.damai.cn
+Connection: Keep-Alive
+Cookie: x_hm_tuid=L32rj91+xH/yyXNTOBlKSQKRSjOV2fFPXYC7RN5KFJ+ZHr6mGsq7j7KbfRl7gbBz; destCity=%u957F%u6C99; isg=BHp6kCCF8_V7E3-ZGZjom41Uw6CcK_4Fb07ZzIRzJo3YdxqxbLtOFUCDw8EOfHad; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1GN3BOCanurza77OSCRYYuPzaNbMi_5ZL6L6K-QOkjpGGFp6VsCRs0LB4o5D9zJ9-etkc; damai.cn_nickName=skyyy1; cpSTAT_ok_pages=1; cpSTAT_ok_times=1; DaMaiTicketHistory=ProList=176104%402019WWE%E7%BB%8F%E5%85%B8%E7%BE%8E%E5%BC%8F%E6%91%94%E8%B7%A4%E5%A8%B1%E4%B9%90%E7%A7%80%40sh; page_tran_time=296.8897
+

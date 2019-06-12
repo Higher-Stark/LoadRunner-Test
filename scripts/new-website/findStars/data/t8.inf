@@ -1,0 +1,13 @@
+[t8]
+FileName1=t8_searchajax.html
+URL1=https://search.damai.cn/searchajax.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn=
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+FileName2=t8_navigation.html
+URL2=https://api-gw.damai.cn/navigation.html?_ksTS=1560336987260_35&callback=jsonp36
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Wed, 12 Jun 2019 10:13:11 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 441
+Connection: keep-alive
+Htrace-id: 0ba9e91015603343909436921e1a90
+Set-Cookie: havana_tgc=eyJjcmVhdGVUaW1lIjoxNTYwMzM0MzkxMDkxLCJsYW5nIjoiemhfQ04iLCJudWxsIjpmYWxzZSwicGFydGlhbFRnY1ByZXNlbnQiOnRydWUsInBhdGlhbFRnYyI6eyJhY2NJbmZvcyI6eyIxOCI6eyJhY2Nlc3NUeXBlIjoxLCJtZW1iZXJJZCI6NDAxOTk2NjYyMywidGd0SWQiOiIxQ1hXUk5yU0FXWjVEelNncVJiWUZidyJ9fX0sInRnY1ByZXNlbnQiOmZhbHNlfQ; Domain=.ipassport.damai.cn; Path=/; Secure; HttpOnly
+Set-Cookie: _hvn_login=18; Domain=damai.cn; Path=/; Secure
+Set-Cookie: munb=4019966623; Domain=.damai.cn; Expires=Wed, 19-Jun-2019 10:13:11 GMT; Path=/
+Set-Cookie: csg=0ed48de9; Domain=.damai.cn; Path=/
+Set-Cookie: last_u_damai_damai=eyJoaWQiOjQwMTk5NjY2MjMsImxvZ2luSWQiOiIxODU3MDgwMzQ3OSIsInNnIjoiMmZhZHMwMTMxMTJiNmZhYTE5ZTdmZTUwMmIyNTAwODA4NTdjYyJ9; Expires=Sat, 22-Jun-2019 10:13:11 GMT; Path=/; Secure
+Set-Cookie: last_cc=ED88FF62368F5E22158DA314EE08745D; Expires=Fri, 12-Jul-2019 10:13:11 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: last_ae_damai=damai; Expires=Fri, 12-Jul-2019 10:13:11 GMT; Path=/; Secure
+Set-Cookie: munb=4019966623; Domain=.damai.cn; Expires=Wed, 19-Jun-2019 10:13:11 GMT; Path=/
+P3P: CP='CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR'
+Pragma: no-cache
+Access-Control-Allow-Origin: https://login.aliexpress.com
+Access-Control-Allow-Credentials: true
+Set-Cookie: munb=4019966623; Domain=.damai.cn; Expires=Wed, 19-Jun-2019 10:13:11 GMT; Path=/
+Set-Cookie: csg=0ed48de9; Domain=.damai.cn; Path=/
+havana_s_v: 4.0.1.2-SNAPSHOT
+havana_s_ip: 4547514b65494d6168726a50754e664f
+havana_s_host: 514965386569716e57784a3343762f5647316c554f6e34694e504146774b65557950536142706b3d
+havana_s_tag: 321057398816768|201326592^1|0^havanaOldData::|damaiUser:4019966623:^havanaOldData#70377334145024|0,damaiUser#70377334145024|0
+havana_s_write_units: [CN:CENTER]
+havana_s_ucode: CN:CENTER
+havana_s_tid: 0ba9e91015603343909436921e1a90
+havana_s_read_unit: [CN:CENTER]
+havana_s_group: havana-session
+havana_s_status: STATUS_NORMAL
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Cache-Control: no-store
+Server: Tengine/Aserver
+EagleEye-TraceId: 0ba9e91015603343909436921e1a90
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *
+

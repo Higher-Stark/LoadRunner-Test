@@ -1,0 +1,10 @@
+GET /external/gl.html?projects=174468,591018612130,591279136759,590396672096,593261838804,588989395698,174052&ctl= HTTP/1.1
+Accept: application/json, text/plain, */*
+Referer: https://search.damai.cn/search.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&spm=a2oeg.search_category.searchtxt.dsearchbtn
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: search.damai.cn
+Connection: Keep-Alive
+Cookie: destCity=%u5317%u4EAC; isg=BHl5F0VnAGgdcdz8piXbNgphgOVThm04SJs6qZuux6AfIpi06NTfCPnkouRxgQVw; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1-sUmOCanurza77OSCRYYuPzaNbMi_5a16Ts0QQOkjpwUF96VsCR_O8B4o5D9zJ9-etuZ; damai.cn_nickName=skyyy1
+

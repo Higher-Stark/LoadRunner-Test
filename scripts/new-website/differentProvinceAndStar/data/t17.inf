@@ -1,0 +1,15 @@
+[t17]
+FileName1=t17.htm
+URL1=https://piao.damai.cn/ajax/yhcx.html?projectid=176104&cityid=872&categoryID=6
+Total=3
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_17.xml
+FileName2=t17_TB1S_dkRQvoK1RjSZFNXXcxMVXa-270-364.png
+URL2=https://img.alicdn.com/tfs/TB1S_dkRQvoK1RjSZFNXXcxMVXa-270-364.png
+FileName3=t17_cf23ea3e-558b-4a2b-9dbd-0ee51ebba97d.html
+URL3=https://damaipimg.oss-cn-beijing.aliyuncs.com/cfs/src/cf23ea3e-558b-4a2b-9dbd-0ee51ebba97d.png?x-oss-process=image/resize,w_1/format,webp
+[ProtocolInfo]
+ProtocolId=QTWeb

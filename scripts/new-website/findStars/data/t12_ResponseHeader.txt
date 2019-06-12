@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html
+Content-Length: 5176
+Connection: keep-alive
+Date: Wed, 12 Jun 2019 10:45:16 GMT
+Vary: Accept-Encoding
+x-oss-request-id: 5D00D7BCBFB88AE4989D55FE
+x-oss-object-type: Normal
+x-oss-hash-crc64ecma: 5664768117394609694
+x-oss-storage-class: Standard
+Content-MD5: 3tLMJLZn4GHBah7HDU9pog==
+x-oss-server-time: 2
+Cache-Control: max-age=2592000,s-maxage=3600
+Access-Control-Allow-Origin: *
+X-Source-Scheme: https
+Content-Encoding: gzip
+Ali-Swift-Global-Savetime: 1560336316
+Via: cache24.l2cn1793[69,200-0,M], cache38.l2cn1793[70,0], cache2.cn470[0,200-0,H], cache1.cn470[0,0]
+Age: 679
+X-Cache: HIT TCP_MEM_HIT dirn:-2:-2
+X-Swift-SaveTime: Wed, 12 Jun 2019 10:45:16 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7cefa2c915603369956837180e
+

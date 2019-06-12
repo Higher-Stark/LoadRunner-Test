@@ -1,0 +1,10 @@
+GET /alime/getDialogToken?_ksTS=1560337124139_37&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://www.damai.cn/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: online.damai.cn
+Connection: Keep-Alive
+Cookie: isg=BEREMdFaxTcAlXF7o64-GQfKHcI2XWjHNWBXbl7l0I_SieRThm04V3pvzeP0iqAf; t=4d7235666549ab3f54a0d9aa895efb49; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc13yjXOCanurza77OSCRYYuPzaNbMi_5BK6T_VTQOkjpafF96VsCRsV8B4o5D9zJ9-etkq; damai.cn_nickName=skyyy1; destCity=%u957F%u6C99
+

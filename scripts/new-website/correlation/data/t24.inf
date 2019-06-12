@@ -1,0 +1,11 @@
+[t24]
+FileName1=t24_searchajax.html
+URL1=https://search.damai.cn/searchajax.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&cty=&ctl=&sctl=&tsg=0&st=&et=&order=0&pageSize=30&currPage=1&tn=
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

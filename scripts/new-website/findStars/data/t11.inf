@@ -1,0 +1,13 @@
+[t11]
+FileName1=t11.htm
+URL1=https://search.damai.cn/search.html?keyword=%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1&spm=a2oeg.search_category.searchtxt.dsearchbtn2
+Total=2
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_v.gif
+URL2=https://log.mmstat.com/v.gif?logtype=1&title=%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1%20-%20%E5%A4%A7%E9%BA%A6%E6%90%9C%E7%B4%A2&pre=https%3A%2F%2Fsearch.damai.cn%2Fsearch.html%3Fkeyword%3D%25E6%259E%2597%25E4%25BF%258A%25E6%259D%25B0%26spm%3Da2oeg.search_category.searchtxt.dsearchbtn&scr=1280x720&cna=gJuHFQJpXnQCAcp4CxqZ/85N&spm-url=a2oeg.search_category.searchtxt.dsearchbtn2&spm-pre=a2oeg.search_category.searchtxt.dsearchbtn&spm-cnt=a2oeg.search_category.0.0.ee154421uQHQ5F&uidaplus=&aplus&pu_i=&asid=AQAAAABj2gBdOy4tdAAAAAACB7O/RMmRCg==&sidx=0&ckx=|&p=1&o=win10&b=ie11&s=1280x720&w=trident&ism=pc&cache=d59bbbe&lver=8.11.5&jsver=aplus_std&pver=0.7.1&tag=1&stag=-1&lstag=-1&_slog=0
+[ProtocolInfo]
+ProtocolId=QTWeb

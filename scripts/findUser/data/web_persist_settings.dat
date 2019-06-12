@@ -1,0 +1,17 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2019/06/03 07:55:02
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2019/06/03 07:55:47
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2019/06/03 07:58:29
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2019/06/03 08:07:52
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2019/06/03 08:08:31
+StartRecordingIsDst_5=0
+[UserHomePage]
+UserHomePage=about:blank
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0

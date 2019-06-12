@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Content-Length: 180
+Connection: keep-alive
+Date: Wed, 12 Jun 2019 10:12:55 GMT
+x-oss-request-id: 5D00D027D00BC3DE5EFA25A3
+Accept-Ranges: bytes
+ETag: "AF1F41558F34AC6FE74DE684EF3D9C5B"
+Last-Modified: Wed, 12 Jun 2019 07:25:40 GMT
+x-oss-object-type: Normal
+x-oss-hash-crc64ecma: 13626019890878632619
+x-oss-storage-class: Standard
+x-oss-meta-content-encoding: utf-8
+x-oss-meta-content-md5: af1f41558f34ac6fe74de684ef3d9c5b
+Cache-Control: max-age=60
+Content-MD5: rx9BVY80rG/nTeaE7z2cWw==
+x-oss-server-time: 1
+Ali-Swift-Global-Savetime: 1556019130
+Via: cache25.l2cn1732[122,200-0,H], cache21.l2cn1732[123,0], cache6.cn1796[159,200-0,M], cache7.cn1796[161,0]
+Age: 0
+X-Cache: MISS TCP_REFRESH_MISS dirn:11:174240066
+X-Swift-SaveTime: Wed, 12 Jun 2019 10:12:55 GMT
+X-Swift-CacheTime: 60
+Timing-Allow-Origin: *
+EagleId: b656549b15603343756496509e
+

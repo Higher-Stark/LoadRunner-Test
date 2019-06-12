@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22.htm
+URL1=https://search.damai.cn/search.html?keyword=%E6%9E%97%E4%BF%8A%E6%9D%B0&spm=a2oeg.search_category.searchtxt.dsearchbtn
+Total=1
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_22.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

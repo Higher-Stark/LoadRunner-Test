@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18_getDialogToken.html
+URL1=https://online.damai.cn/alime/getDialogToken?_ksTS=1560334398957_20&callback=jsonCallback&from=damai_pc&jsonCallback=jsonCallback
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

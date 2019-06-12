@@ -1,0 +1,11 @@
+GET /ajax/GetQA.html?pid=174026&t=0.55360727521377&pageidx=1 HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: https://piao.damai.cn/174026.html?pos=1&acm=201808136-1.1003.2.5940985&scm=1003.2.201808136-1.OTHER_1557822952817_5940985?spm=a2oeg.home.banner.ditem_0.591b23e1EVKduH&clicktitle=%E4%B8%96%E5%9B%AD%E4%BC%9A
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: piao.damai.cn
+Connection: Keep-Alive
+Cookie: DaMaiTicketHistory=ProList=174026%402019%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E4%B8%96%E7%95%8C%E5%9B%AD%E8%89%BA%E5%8D%9A%E8%A7%88%E4%BC%9A%40bj%7C176104%402019WWE%E7%BB%8F%E5%85%B8%E7%BE%8E%E5%BC%8F%E6%91%94%E8%B7%A4%E5%A8%B1%E4%B9%90%E7%A7%80%40sh; cpSTAT_ok_pages=2; cpSTAT_ok_times=1; destCity=%u5317%u4EAC; cn_7415364c9dab5n09ff68_dplus=%7B%22distinct_id%22%3A%20%2216b4b57c589139-0876a5a123cebf-771c3e02-e1000-16b4b57c58a943%22%2C%22%24_sessionid%22%3A%200%2C%22%24_sessionTime%22%3A%201560337183%2C%22%24dp%22%3A%200%2C%22%24_sessionPVTime%22%3A%201560337183%2C%22initial_view_time%22%3A%20%221560337002%22%2C%22initial_referrer%22%3A%20%22https%3A%2F%2Fwww.damai.cn%2F%22%2C%22initial_referrer_domain%22%3A%20%22www.damai.cn%22%7D; isg=BD4-TCuJ7-kfPTvNtcxkFylIh1SAfwL5i6IduOhHqgF8i99lUA4yCfkpB5XiqPoR; t=4d7235666549ab3f54a0d9aa895efb49; UM_distinctid=16b4b57c589139-0876a5a123cebf-771c3e02-e1000-16b4b57c58a943; munb=4019966623; cna=gJuHFQJpXnQCAcp4CxqZ/85N; l=bBMoFGFHqQjc1soQBOCanurza77OSCRbYuPzaNbMi_5at_L6VB_OkjpiiEp6VsCP9sTB4o5D9zJtKe4gJyTC.; damai.cn_nickName=skyyy1; x_hm_tuid=T9mY6sbbcGUrofUovXIJT3kvdIL0xgfF2pmyMdOlQNJP6EemY4ILJQkyGejWwI0q
+
